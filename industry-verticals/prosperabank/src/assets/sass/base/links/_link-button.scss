@@ -1,15 +1,18 @@
 @import 'src/assets/sass/abstracts/vars/colors';
 @import 'src/assets/sass/abstracts/mixins';
 
-.site-financial {
+.site-financial,
+.site-prosperabank {
   --button-main-color: #fff;
-  --button-main-bg-color: var(--bg-saturated);
+  --button-main-bg-color: var(--bg-accent);
   --button-secondary-color: var(--text-colored);
   --button-simple-color: var(--text-colored);
-  --button-padding: 10px 50px;
-  --button-roundness: 40px;
+  --button-padding: 8px 16px;
+  --button-roundness: 0;
+  --button-border-width: 3px;
   --button-font-weight: 500;
-  --button-font-size: 1.125rem;
+  --button-font-size: 1rem;
+  --button-text-transform: none;
 }
 
 .site-services {
@@ -38,7 +41,7 @@
   background-color: var(--button-main-bg-color);
   color: var(--button-main-color);
   text-transform: var(--button-text-transform);
-  border: none;
+  border: var(--button-border-width, 0) solid var(--button-main-bg-color);
 
   a {
     color: var(--button-main-color);
@@ -47,12 +50,12 @@
 
   &:hover {
     color: var(--button-main-color);
-    filter: brightness(125%);
+    filter: brightness(95%);
   }
 }
 
 .button-secondary {
-  border: 2px solid var(--button-secondary-color);
+  border: var(--button-border-width, 2px) solid var(--button-secondary-color);
   color: var(--button-secondary-color);
   text-transform: var(--button-text-transform);
 

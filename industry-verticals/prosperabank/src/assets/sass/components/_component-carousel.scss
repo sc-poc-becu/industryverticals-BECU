@@ -2,35 +2,39 @@
 
 .carousel {
   padding: 0;
+  background-color: #192838;
 
   @include media-breakpoint-down(md) {
-    background-color: var(--bg-main-alt);
+    background-color: #192838;
+  }
+
+  .carousel-inner {
+    position: relative;
+    padding: 0 2.5rem;
   }
 
   .carousel-indicators {
-    position: absolute;
-    right: 0;
-    bottom: 0;
-    left: 0;
+    position: static;
     display: flex;
     justify-content: center;
     padding-left: 0; // override <ol> default
-    // Use the .carousel-control's width as margin so we don't overlay those
-    margin-right: 3rem;
-    margin-left: 3rem;
+    margin: 0;
     list-style: none;
     z-index: 0;
     cursor: pointer;
+    padding: 0.75rem 0 1rem;
+    background-color: #fff;
 
     li {
       position: relative;
       flex: 0 1 auto;
-      width: $carousel-indicator-width;
-      height: $carousel-indicator-height;
+      width: 10px;
+      height: 10px;
       margin-right: $carousel-indicator-spacer;
       margin-left: $carousel-indicator-spacer;
       text-indent: -999px;
-      background-color: $carousel-indicator-active-bg;
+      background-color: #c7d1d8;
+      border-radius: 50%;
       opacity: 0.5;
 
       // Use pseudo classes to increase the hit area by 10px on top and bottom.
@@ -57,12 +61,46 @@
 
     .active {
       opacity: 1;
+      background-color: #47b3b5;
+    }
+  }
+
+  .carousel-controls {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+    background-color: #fff;
+    padding: 0.75rem 0 1rem;
+  }
+
+  .carousel-toggle {
+    width: 28px;
+    height: 28px;
+    border-radius: 50%;
+    border: none;
+    background-color: #47b3b5;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0;
+
+    svg {
+      width: 12px;
+      height: 12px;
+      fill: #fff;
     }
   }
 
   .carousel-control-next,
   .carousel-control-prev {
-    width: 3rem;
+    width: 44px;
+    height: 44px;
+    background-color: #192838;
+    border: 2px solid #fff;
+    opacity: 1;
+    top: 50%;
+    transform: translateY(-50%);
 
     @include media-breakpoint-down(md) {
       display: none;
@@ -71,65 +109,96 @@
 
   .carousel-control-prev-icon,
   .carousel-control-next-icon {
-    color: $carousel-indicator-active-bg;
+    color: #fff;
     background-image: none;
   }
 
   .carousel-item {
     bottom: unset;
     text-align: left;
+    display: flex;
+    flex-direction: column;
     justify-content: center;
-    align-items: center;
+    align-items: stretch;
     width: 100%;
     height: 100%;
+    display: none;
 
     .active {
       display: flex;
     }
 
-    @include media-breakpoint-up(md) {
-      height: 41em;
+    &.active {
+      display: flex;
+    }
 
-      img {
-        min-height: 25rem;
-        /* stylelint-disable */
-        mask-image: linear-gradient(
-          to left,
-          rgba(255, 255, 255, 0.2) 10%,
-          rgba(255, 255, 255, 1) 100%
-        );
-        /* stylelint-enable */
+    @include media-breakpoint-up(md) {
+      min-height: 371px;
+      flex-direction: row;
+    }
+
+    .carousel-media {
+      order: 1;
+      width: 100%;
+      display: flex;
+      align-items: flex-start;
+      padding: 0.75rem 0 0.75rem 1.5rem;
+
+      @include media-breakpoint-up(md) {
+        order: 1;
+        width: 58%;
+        height: auto;
+        padding: 1rem 0 1rem 1.5rem;
       }
 
+      img,
       video {
-        min-height: 25rem;
-        /* stylelint-disable */
-        mask-image: linear-gradient(
-          to left,
-          rgba(255, 255, 255, 0.2) 10%,
-          rgba(255, 255, 255, 1) 100%
-        );
-        /* stylelint-enable */
+        width: 100%;
+        height: auto;
+        object-fit: contain;
+        display: block;
       }
     }
 
     .side-content {
       z-index: 1;
       padding: 2rem $size-padding 3rem;
+      order: 2;
 
       @include media-breakpoint-up(md) {
-        position: absolute;
-        width: 100%;
-        inset: 0;
-        text-align: left;
+        order: 2;
+        width: 42%;
         display: flex;
         align-items: center;
-        padding: 2rem 0;
-        top: 10px;
+        padding: 0 3.5rem 0 3rem;
+      }
+
+      .container {
+        max-width: 100%;
+        padding: 0;
       }
 
       a {
         text-decoration: none;
+      }
+    }
+
+    .carousel-text {
+      max-width: 420px;
+
+      h1 {
+        color: #fff;
+        font-size: 38px;
+        line-height: 44px;
+        margin-bottom: 0.75rem;
+      }
+
+      p,
+      .rich-text {
+        color: #fff;
+        font-size: 18px;
+        line-height: 24px;
+        margin-bottom: 1.25rem;
       }
     }
   }

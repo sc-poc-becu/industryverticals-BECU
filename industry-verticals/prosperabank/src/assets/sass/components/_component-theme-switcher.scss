@@ -25,7 +25,7 @@
   &-slider {
     position: absolute;
     inset: 0;
-    border-radius: calc(var(--roundness) * 2.125);
+    border-radius: 0;
     background-color: var(--bg-main);
     border: 1px solid var(--border-color);
     transition: 0.4s;
@@ -39,7 +39,7 @@
       left: 0.187rem;
       bottom: calc(0.187rem - 1px);
       background-color: var(--bg-saturated);
-      border-radius: 50%;
+      border-radius: 0;
       transition: 0.4s;
     }
   }

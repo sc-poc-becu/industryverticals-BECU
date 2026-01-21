@@ -2,9 +2,18 @@
 @import 'src/assets/sass/abstracts/vars';
 
 .navigation {
-  .button-nav-item a {
+  .button-nav-item > .navigation-title > a {
     @extend .button;
     @extend .button-main;
+    border-radius: 0;
+    font-size: 1rem;
+    font-weight: 500;
+    padding: 4px 9px;
+    text-transform: uppercase;
+    letter-spacing: 0.02em;
+    border-width: 3px;
+    border-style: solid;
+    border-color: var(--bg-accent);
   }
 
   ul {
@@ -16,6 +25,9 @@
     &:not(.button-nav-item) {
       > .navigation-title > a {
         font-size: $navigation-font-basic;
+        text-transform: uppercase;
+        letter-spacing: 0.02em;
+        color: var(--text-colored);
 
         &:hover {
           text-decoration: none;

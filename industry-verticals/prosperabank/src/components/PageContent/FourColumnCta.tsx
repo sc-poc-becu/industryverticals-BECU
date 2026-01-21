@@ -63,7 +63,7 @@ export const Default = (props: FourColumnCtaProps): JSX.Element => {
       >
         <Link field={link}>
           <div className="content-wrapper">
-            <NextImage field={image} width={300} height={300} />
+            <NextImage field={image} width={300} height={300} className="cta-image" />
             <div className="text-wrapper">
               <h2>
                 <Text field={title} />

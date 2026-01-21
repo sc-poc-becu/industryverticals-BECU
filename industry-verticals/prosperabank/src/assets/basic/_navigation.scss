@@ -51,6 +51,17 @@ $hamburger-margin: 18px;
         }
       }
     }
+
+    .button-nav-item > .navigation-title > a {
+      border-width: 3px;
+      border-style: solid;
+      border-color: var(--bg-accent);
+      font-weight: 500;
+      text-transform: uppercase;
+      letter-spacing: 0.02em;
+      padding: 4px 9px;
+      border-radius: 0;
+    }
   }
 
   @include respond-to(mobile-large) {

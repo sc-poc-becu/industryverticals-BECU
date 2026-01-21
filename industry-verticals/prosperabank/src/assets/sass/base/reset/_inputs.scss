@@ -11,8 +11,8 @@ button {
   display: inline-block;
   box-sizing: border-box;
   background: $bg-basic-color !important;
-  border: 1px solid $border-gray;
-  border-radius: 0 !important;
+  border: 1px solid $border-basic-color;
+  border-radius: var(--roundness) !important;
   color: $text-basic;
   font-weight: normal;
   padding: 8px 2%;
@@ -22,7 +22,7 @@ button {
 }
 
 input:focus {
-  border: 1px solid $border-gray;
+  border: 1px solid $border-basic-active;
 }
 
 input[type='submit'],
@@ -56,7 +56,7 @@ select {
   color: $text-basic;
   width: 100%;
   background: #fff;
-  border: 1px solid $border-gray;
+  border: 1px solid $border-basic-color;
 }
 
 select {

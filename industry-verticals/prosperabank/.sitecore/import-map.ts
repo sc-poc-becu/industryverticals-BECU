@@ -23,8 +23,8 @@ import nextConfig from 'next.config';
 import { pageView } from '@sitecore-cloudsdk/events/browser';
 import config from 'sitecore.config';
 import { useI18n } from 'next-localization';
+import { Presence, ArticleCard, PreviewSearch } from '@sitecore-search/ui';
 import { WidgetDataType, usePreviewSearch, widget, PageController } from '@sitecore-search/react';
-import { ArticleCard, Presence, PreviewSearch } from '@sitecore-search/ui';
 import Spinner from 'src/components/Search/components/Spinner/Spinner';
 import useVisibility from 'src/hooks/useVisibility';
 import { Swiper, SwiperSlide } from 'swiper/react';
@@ -142,20 +142,20 @@ const importMap = [
     ]
   },
   {
+    module: '@sitecore-search/ui',
+    exports: [
+      { name: 'Presence', value: Presence },
+      { name: 'ArticleCard', value: ArticleCard },
+      { name: 'PreviewSearch', value: PreviewSearch },
+    ]
+  },
+  {
     module: '@sitecore-search/react',
     exports: [
       { name: 'WidgetDataType', value: WidgetDataType },
       { name: 'usePreviewSearch', value: usePreviewSearch },
       { name: 'widget', value: widget },
       { name: 'PageController', value: PageController },
-    ]
-  },
-  {
-    module: '@sitecore-search/ui',
-    exports: [
-      { name: 'ArticleCard', value: ArticleCard },
-      { name: 'Presence', value: Presence },
-      { name: 'PreviewSearch', value: PreviewSearch },
     ]
   },
   {

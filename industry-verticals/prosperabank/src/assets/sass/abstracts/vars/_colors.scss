@@ -1,37 +1,43 @@
-// Financial
-.site-financial {
-  --text-body: #333;
+// Financial (BECU-inspired)
+:root,
+.site-financial,
+.site-prosperabank {
+  --text-body: #4d5f69;
   --text-body-inverted: #fff;
-  --text-colored: #034c81;
+  --text-colored: #192838;
   --text-footer: #fff;
-  --text-accent: #a82a39;
+  --text-accent: #d12a2e;
+  --link-color: #007c89;
+  --link-color-hover: #00636d;
   --bg-body: #fff;
-  --bg-footer: #333;
-  --bg-main: #f0f5f7;
-  --bg-main-alt: #f0f5f7;
-  --bg-color: #c5e4f3;
-  --bg-saturated: #034c81;
-  --bg-accent: #c03021;
-  --border-color: #f0f5f7;
-  --hr-color: #fff;
-  --roundness: 1rem;
+  --bg-footer: #192838;
+  --bg-main: #f5f7f8;
+  --bg-main-alt: #f5f7f8;
+  --bg-color: #192838;
+  --bg-saturated: #d12a2e;
+  --bg-accent: #d12a2e;
+  --border-color: #d1d7db;
+  --hr-color: #d1d7db;
+  --roundness: 0;
 
   .dark & {
-    --text-body: #fff;
-    --text-body-inverted: #333;
-    --text-colored: #c5e4f3;
+    --text-body: #e7edf0;
+    --text-body-inverted: #0f1625;
+    --text-colored: #cfe0ea;
     --text-footer: #fff;
-    --text-accent: #a82a39;
-    --bg-body: #031827;
-    --bg-footer: #333;
-    --bg-main: #034c81;
-    --bg-main-alt: #031827;
-    --bg-color: #034c81;
-    --bg-saturated: #034c81;
-    --bg-accent: #c03021;
-    --border-color: #034c81;
-    --hr-color: #fff;
-    --roundness: 1rem;
+    --text-accent: #ff7a7d;
+    --link-color: #69c5cf;
+    --link-color-hover: #8bd6df;
+    --bg-body: #0f1625;
+    --bg-footer: #0b1320;
+    --bg-main: #131f33;
+    --bg-main-alt: #0f1625;
+    --bg-color: #192838;
+    --bg-saturated: #d12a2e;
+    --bg-accent: #d12a2e;
+    --border-color: #22314b;
+    --hr-color: #22314b;
+    --roundness: 0;
   }
 }
 

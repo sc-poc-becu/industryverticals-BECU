@@ -5,11 +5,11 @@ a {
   background-color: transparent;
   text-decoration: none;
   font-size: 1em;
-  color: $text-basic;
-  border-bottom: 1px solid $border-basic-color;
+  color: var(--link-color, $text-blue-active);
+  border-bottom: 1px solid transparent;
 
   &:hover {
-    color: $text-basic-active;
-    text-decoration: none;
+    color: var(--link-color-hover, $text-blue-active);
+    text-decoration: underline;
   }
 }
