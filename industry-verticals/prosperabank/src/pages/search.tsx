@@ -3,6 +3,7 @@ import Head from 'next/head';
 import { useRouter } from 'next/router';
 
 const SearchPage = (): JSX.Element => {
+  const fixedQuery = 'Can I use home equity for renovations';
   const router = useRouter();
   const [query, setQuery] = useState('');
   const [suggestions, setSuggestions] = useState<string[]>([]);
@@ -11,7 +12,7 @@ const SearchPage = (): JSX.Element => {
   const inputRef = useRef<HTMLTextAreaElement>(null);
   const suggestionsRef = useRef<HTMLUListElement>(null);
 
-  const suggestionsData = ['Best point of sale system for growing restaurants'];
+  const suggestionsData = ['Can I use home equity for renovations'];
 
   useEffect(() => {
     if (inputRef.current) {
@@ -88,7 +89,7 @@ const SearchPage = (): JSX.Element => {
 
     const target = routeQuery();
     if (target) {
-      router.push(`/${target}?q=${encodeURIComponent(query)}`);
+      router.push(`/${target}?q=${encodeURIComponent(fixedQuery)}`);
     }
   };
 
@@ -109,7 +110,7 @@ const SearchPage = (): JSX.Element => {
       <div className="search-page">
         <header className="search-page__header">
           <nav className="search-page__nav search-page__nav--left" aria-label="Primary">
-            <a href="https://globalpayments-poc.vercel.app/" target="_blank" rel="noreferrer">
+            <a href="https://becu-onsite.vercel.app/" target="_blank" rel="noreferrer">
               Home Page
             </a>
             <a

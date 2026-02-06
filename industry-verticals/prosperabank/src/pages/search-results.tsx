@@ -20,8 +20,9 @@ interface SidebarAd {
 
 const SearchResultsPage = (): JSX.Element => {
   const router = useRouter();
+  const fixedQuery = 'Can I use home equity for renovations';
   const { q } = router.query;
-  const [query, setQuery] = useState(typeof q === 'string' ? q : '');
+  const [query, setQuery] = useState(fixedQuery);
   const [suggestions, setSuggestions] = useState<string[]>([]);
   const [activeIndex, setActiveIndex] = useState(-1);
   const [showSuggestions, setShowSuggestions] = useState(false);
@@ -33,40 +34,41 @@ const SearchResultsPage = (): JSX.Element => {
   // Mock search results - in a real app, these would come from an API
   const mockResults: SearchResult[] = [
     {
-      title: 'Global Payments: Payment Solutions and Software',
-      url: 'https://globalpayments-poc.vercel.app/',
+      title: 'BECU Home Equity Line of Credit',
+      url: 'https://becu-onsite.vercel.app/',
       snippet:
-        'Global Payments delivers flexible, future-ready payment processing solutions, software and systems that fuel the growth of businesses and organizations of ...',
-      displayUrl: 'globalpayments.com › genius-pos',
+        'BECU offers flexible home equity lines of credit with competitive rates, no application fees, and member-focused guidance to help homeowners reach their financial goals....',
+      displayUrl: 'becu.com › home',
     },
   ];
 
   const sidebarAds: SidebarAd[] = [
     {
-      title: 'Genius Retail POS System and Payment Solution',
-      snippet: "That's Genius. GENIUS FOR RETAIL. Running a retail business is tough...",
-      source: 'Global Payments',
-      url: '/?utm_campaign=genius-retail',
+      title: 'BECU Home Equity Line of Credit',
+      snippet:
+        'Put your home’s equity to work. BECU offers flexible home equity lines of credit with competitive rates, no application fees, and local expertise you can trust.',
+      source: 'BECU',
+      url: '/?utm_campaign=becu-heloc',
       imageUrl:
-        'https://globalpayments.sitecoresandbox.cloud/api/public/content/57080575e7a24a27a2b7d45f4690306e?v=c515e41a',
+        'https://ze-verticals-26.sitecoresandbox.cloud/api/public/content/68bffaf5483e4957bae0ae5a01971847?v=6622699b',
     },
     {
-      title: 'Global Payments Launches New Genius™ POS Platform for Restaurants',
+      title: 'Is a HELOC Right for Your Financial Goals?',
       snippet:
-        'The new Genius platform enables global expansion and vertical specialization...',
-      source: 'Global Payments',
-      url: '/?utm_campaign=genius-restaurants',
+        'Learn how a home equity line of credit can help fund renovations, consolidate debt, or cover major expenses — all with flexible access to your equity.',
+      source: 'BECU',
+      url: '/?utm_campaign=becu-heloc-education',
       imageUrl:
-        'https://globalpayments.sitecoresandbox.cloud/api/public/content/e4b5ed3217e245179561971a82eccc6d?v=a86a0b63',
+        'https://ze-verticals-26.sitecoresandbox.cloud/api/public/content/63624-HomepagePromoCTAs-1100x740?v=a6bdddaa',
     },
     {
-      title: 'Global Payments: Payment Solutions and Software',
+      title: 'BECU Home Loans and Equity Options',
       snippet:
-        'Global Payments delivers flexible, future-ready payment processing solutions, software and systems that fuel the growth of businesses and organizations of ...',
-      source: 'Global Payments',
-      url: 'https://globalpayments-poc.vercel.app/',
+        'From home equity lines of credit to fixed-rate loans, BECU provides transparent, member-focused lending solutions designed for homeowners at every stage.',
+      source: 'BECU',
+      url: 'https://becu.org/home-loans',
       imageUrl:
-        'https://globalpayments.sitecoresandbox.cloud/api/public/content/2ed5fdd748a5404f93257c74d7a7d529?v=85da39fa',
+        'https://ze-verticals-26.sitecoresandbox.cloud/api/public/content/5249b717cc8e4f8294816fbbcb91eea3?v=a5d7f91f',
     },
   ];
 
@@ -82,10 +84,10 @@ const SearchResultsPage = (): JSX.Element => {
   ];
 
   useEffect(() => {
-    if (typeof q === 'string' && q) {
-      setQuery(q);
+    if (query !== fixedQuery) {
+      setQuery(fixedQuery);
     }
-  }, [q]);
+  }, [fixedQuery, query, q]);
 
   const handleInputChange = (e: React.ChangeEvent<HTMLTextAreaElement>) => {
     const value = e.target.value;
@@ -151,7 +153,7 @@ const SearchResultsPage = (): JSX.Element => {
     }
 
     if (query.trim()) {
-      router.push(`/search-results?q=${encodeURIComponent(query)}`);
+      router.push(`/search-results?q=${encodeURIComponent(fixedQuery)}`);
     }
   };
 
@@ -294,9 +296,8 @@ const SearchResultsPage = (): JSX.Element => {
 
               {/* AI Overview Section */}
               {query &&
-                (query.toLowerCase().includes('genius pos') ||
-                  (query.toLowerCase().includes('point of sale') &&
-                    query.toLowerCase().includes('restaurant'))) && (
+                (query.toLowerCase().includes('home equity') ||
+                  query.toLowerCase().includes('renovation')) && (
                 <div className="search-results-page__ai-overview">
                   <div className="search-results-page__ai-header">
                     <div className="search-results-page__ai-title-wrap">
@@ -320,39 +321,42 @@ const SearchResultsPage = (): JSX.Element => {
                   </div>
                   <div className="search-results-page__ai-content">
                     <p>
-                      BECU offers various loans with competitive, fixed rates and no origination
-                      fees, including personal loans up to $50,000 (as low as 9.99% APR), auto,
-                      boat, and home improvement loans. Members can apply online or call
-                      844-BECULOAN for fast, often same-day or next-day funding.
+                      Yes, you can use home equity for renovations through BECU (and other
+                      lenders) by leveraging the difference between your home&apos;s value and your
+                      mortgage balance. Options include a Home Equity Line of Credit (HELOC) for
+                      flexible, revolving funds, or a fixed-rate home equity loan for a lump sum.
                     </p>
                     <div className="search-results-page__ai-features">
                       <h3 className="search-results-page__ai-features-title">
-                        Key Loan Options and Details
+                        Key Details on Using Equity for Renovations
                       </h3>
                       <ul className="search-results-page__ai-features-list">
                         <li>
-                          <strong>Personal Loans:</strong> Debt consolidation, travel, or other
-                          needs with terms up to 7 years.
+                          <strong>Best Options:</strong> HELOCs are ideal for ongoing projects,
+                          while fixed-rate loans are better for defined, one-time renovations.
                         </li>
                         <li>
-                          <strong>Auto and Vehicle Loans:</strong> Financing for new and used cars,
-                          motorcycles, and ATVs.
+                          <strong>Available Projects:</strong> Funds can be used for kitchens,
+                          baths, roofs, energy-efficient upgrades, and landscaping.
                         </li>
                         <li>
-                          <strong>Home Improvement Loans:</strong> Up to $80,000 for renovations.
+                          <strong>Limitations:</strong> BECU considers your current equity and the
+                          home&apos;s projected value after construction.
                         </li>
                         <li>
-                          <strong>Savings-Secured Loans:</strong> $250 to $10,000 with no credit
-                          check required, using savings as collateral.
+                          <strong>Risks:</strong> Because these are secured by your home, failing to
+                          make payments can risk foreclosure.
                         </li>
                         <li>
-                          <strong>Student Loans:</strong> Private loans for college costs.
-                        </li>
-                        <li>
-                          <strong>Application Process:</strong> Apply online through the BECU
-                          website or call 844-BECULOAN (844-232-8562). Membership required.
+                          <strong>Tax Tip:</strong> Interest on home equity loans/HELOCs may be
+                          tax-deductible if used to substantially improve the home, according to
+                          YouTube video and Bankrate.
                         </li>
                       </ul>
+                      <p>
+                        It is recommended to obtain multiple contractor quotes and ensure the
+                        renovations add value to your home.
+                      </p>
                     </div>
                     <div className="search-results-page__ai-link">
                       <a
@@ -367,9 +371,8 @@ const SearchResultsPage = (): JSX.Element => {
                 </div>
               )}
               {query &&
-                (query.toLowerCase().includes('genius pos') ||
-                  (query.toLowerCase().includes('point of sale') &&
-                    query.toLowerCase().includes('restaurant'))) && (
+                (query.toLowerCase().includes('home equity') ||
+                  query.toLowerCase().includes('renovation')) && (
                 <div className="search-results-page__ai-actions">
                   <button className="search-results-page__ai-deeper" type="button">
                     Dive deeper in AI Mode
