@@ -1,0 +1,43 @@
+﻿---
+ID: "954329e5-b246-41e7-897f-52fd6137f90a"
+Parent: "5c48bd53-e997-45fc-b318-672cfa349bb3"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/content/Financial/ProsperaFinancial/Data/Disclosures
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: applications/16x16/copy.png
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {395EBCE7-CD24-483D-AEB4-13301249D1D4}
+    {A87A00B1-E6DB-45AB-8B54-636FEC3B5523}
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "afc44b56-e4b8-475e-878e-721debcfc071"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260210T190631Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "bac4e4dc-ca13-41c9-bbe9-0820853596a8"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260210T190818Z

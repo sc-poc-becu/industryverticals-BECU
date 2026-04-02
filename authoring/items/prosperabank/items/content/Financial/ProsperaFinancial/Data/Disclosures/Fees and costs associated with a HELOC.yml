@@ -1,0 +1,49 @@
+﻿---
+ID: "0c06aa5b-12fe-4c33-9c59-8191a3123243"
+Parent: "954329e5-b246-41e7-897f-52fd6137f90a"
+Template: "395ebce7-cd24-483d-aeb4-13301249d1d4"
+Path: /sitecore/content/Financial/ProsperaFinancial/Data/Disclosures/Fees and costs associated with a HELOC
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{A5BC37E7-ED96-4C1E-8590-A26E64DB55EA}"
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "601da1c7-2f2d-4d8f-8c9d-a83659969d13"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260210T191900Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{46DA5376-10DC-4B66-B464-AFDAA29DE84F}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7f45a1d1-a3bc-4333-a4a2-b76f5fb9a340"
+    - ID: "b334e181-d0ec-4766-a739-9d8b1bc4b421"
+      Hint: DisclosureTitle
+      Value: Fees and costs associated with a HELOC
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\allen.blanton@sitecore.com
+    - ID: "c0e60ae0-3478-416f-8596-ca71351c973d"
+      Hint: Summary
+      Value: An overview of potential costs related to opening and maintaining a home equity line of credit.
+    - ID: "d50dd51e-82d0-44a9-9ad2-ec8322493f6f"
+      Hint: Body
+      Value: <p>Depending on the terms of the HELOC, fees may apply, including appraisal fees, closing costs, annual fees, or early closure fees. Certain fees may be waived or reimbursed under specific conditions. Details regarding applicable fees are provided during the application process and in your HELOC agreement. Members are encouraged to review all costs carefully before proceeding.</p>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260210T192217Z

@@ -12,7 +12,8 @@ SharedFields:
   Value: 400
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
-  Value: 
+  Value: |
+    <image mediaid="{805F969F-D353-49FB-AB55-A210F5C928A0}" />
 - ID: "df6dc0ca-f8ee-493a-a920-f2b710f08452"
   Hint: BackgroundImage
   Value: |
@@ -83,6 +84,9 @@ Languages:
     - ID: "247be607-394a-4bf2-8c8a-509b07025dd9"
       Hint: Title
       Value: Retirement planning
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260120T165718Z
     - ID: "3d30539f-d403-496a-a512-ac885b1a2f8b"
       Hint: Content
       Value: <p>Plan today. Thrive tomorrow.</p>
@@ -91,10 +95,21 @@ Languages:
       Value: "{171CCFD4-8543-428E-9A9B-8E6557E63B6D}"
     - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
       Hint: NavigationTitle
-      Value: Retirement planning
+      Value: BECU & YOU
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "b3be5b8a-0d83-4f71-b67a-e0f144f2a8cd"
+      Value: "41761e92-46fc-4ab7-aa66-b0c9b93dc177"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260120T165720Z
 - Language: "fr-CA"
   Fields:
   - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"

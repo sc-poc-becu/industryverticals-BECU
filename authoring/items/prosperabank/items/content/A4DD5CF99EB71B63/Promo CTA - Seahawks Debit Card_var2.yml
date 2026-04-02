@@ -1,0 +1,58 @@
+﻿---
+ID: "265c3012-913c-46d4-b45f-616fdea62b37"
+Parent: "bc4ac67b-9bf5-4bc2-bc77-d475e48e0005"
+Template: "c0943942-ae0f-4205-86fa-84884cce4a53"
+Path: "/sitecore/content/Financial/ProsperaFinancial/Home/BECU YOU/Launching Seahawks Debit Card/Data/Promo CTA - Seahawks Debit Card_var2"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "f68fa8e0-906b-4b5d-9ff7-eec0e52c5e7a"
+- ID: "e495efd3-5c43-45fc-af43-796a6b503716"
+  Hint: Image
+  Value: |
+    <image mediaid="2f68addf-9beb-4784-bfcd-2d3be038b004" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "1f82a687-0683-426f-b12a-4b2100a6a481"
+      Hint: Title
+      Value: Bank Like a Champion
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260226T155355Z
+    - ID: "2fbad11a-8129-4c7e-aacc-6973619327a1"
+      Hint: Eyebrow
+      Value: 
+    - ID: "507ba267-78fc-42f1-ac96-a1cb769b6de6"
+      Hint: Link
+      Value: |
+        <link linktype="external" url="https://example.com" text="Join BECU" anchor=""/>
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\allen.blanton@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\allen.blanton@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "122850f0-954c-4076-82fe-d35dc30f9888"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: "cc0cb595-ce5c-413e-b413-3a7176347f28"
+      Hint: Text
+      Value: <p>Enjoy no monthly fees, exclusive benefits and more with the Official Debit Card of the Seattle Seahawks.</p>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260226T170444Z
+    - ID: "e4f11fe1-3b24-42e4-8cea-9ed7fda32bab"
+      Hint: Subtitle
+      Value: 

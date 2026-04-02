@@ -1,0 +1,42 @@
+﻿---
+ID: "e85c36fa-2f16-47e1-9fdd-1c602a52554a"
+Parent: "6bcc4b06-34f2-4917-b3c2-98dc6cb3de45"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: /sitecore/content/Financial/ProsperaFinancial/Home/BECU YOU/borrowing/HELOC/Data
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 50
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260210T180628Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\allen.blanton@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "671d8bfe-6c0d-4624-918a-c51df617f1ec"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\allen.blanton@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260210T180628Z
+- Language: "ja-JP"
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: データ
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "787345ee-3fd8-4c03-b4fe-386feddc5ef1"

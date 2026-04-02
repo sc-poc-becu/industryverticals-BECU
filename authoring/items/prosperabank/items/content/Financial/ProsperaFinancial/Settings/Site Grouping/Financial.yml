@@ -12,7 +12,7 @@ SharedFields:
   Value: 1
 - ID: "6dd8a774-2ce5-4c9e-be7f-1eaf65789956"
   Hint: ThumbnailsRootPath
-  Value: /sitecore/media library/Project/Verticals/Financial
+  Value: /sitecore/media library/Project/Financial/ProsperaFinancial
 - ID: "6e6da5b0-8d01-4514-b7dd-1940aff3e8cd"
   Hint: FieldLanguageFallback
   Value: 1
@@ -24,7 +24,7 @@ SharedFields:
   Value: 1
 - ID: "8e0dd914-9afb-4d45-bf8b-7ff5d6e5337e"
   Hint: HostName
-  Value: prosperabank.dev
+  Value: *
 - ID: "9eaf6dc9-b811-4cda-9edd-9697faba628a"
   Hint: POS
   Value: "en=play-finance&fr=play-finance&ar-EG=play-finance&zh-CN=play-finance&de-CH=play-finance&is-IS=play-finance&it-CH=play-finance&ja-JP=play-finance&th-TH=play-finance"
@@ -36,10 +36,10 @@ SharedFields:
   Value: *
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "ef0c21ad-810e-4f41-a519-3c7382978ec9"
+  Value: "82bb4c9d-0485-4009-9d74-b84bf9bb93dd"
 - ID: "e5b5ccb5-17a1-429d-bd3e-6122b3216e52"
   Hint: TargetHostName
-  Value: prosperabank.dev
+  Value: 
 - ID: "f57099a3-526a-49f2-aebd-635453e48875"
   Hint: RenderingHost
   Value: prosperabank
@@ -60,11 +60,11 @@ Languages:
         sitecore\johannes.zijlstra@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "25a0a9d1-549c-4ead-864c-277269a060db"
+      Value: "4d335af4-fee9-4029-9269-d732479cf62b"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\johannes.zijlstra@sitecore.com
+        sitecore\zach.escabedo@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20251031T232716Z
+      Value: 20260205T210302Z

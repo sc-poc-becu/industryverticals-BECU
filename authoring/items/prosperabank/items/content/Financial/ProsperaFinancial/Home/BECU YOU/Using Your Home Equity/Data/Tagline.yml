@@ -1,0 +1,43 @@
+﻿---
+ID: "0344fd55-3afd-406c-9467-0f32b1a4354f"
+Parent: "8d76da4a-573e-43b9-b95a-9dae77ec672f"
+Template: "0a7aa373-5ed1-4e9b-9678-22d3c5faf6df"
+Path: /sitecore/content/Financial/ProsperaFinancial/Home/BECU YOU/Using Your Home Equity/Data/Tagline
+BranchID: "f1e90846-d2fc-4ef5-8970-891d0d88737f"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{8F741F43-1693-44EA-80BA-EBC59E6310AE}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260210T052812Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: "729034fc-24f3-40b7-8fa4-fb49d7de20dd"
+      Hint: Text
+      Value: |
+        <h2>There's always something <em style="color: var(--bg-accent);">exciting to plan for.</em> That means&nbsp;<em style="color: var(--bg-accent);">more everyday banking to love.</em></h2>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "50fb5ddb-51c1-41d9-a819-f5dec68a0144"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\allen.blanton@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260210T161327Z

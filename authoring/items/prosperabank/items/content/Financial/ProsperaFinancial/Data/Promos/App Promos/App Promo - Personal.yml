@@ -7,12 +7,18 @@ SharedFields:
 - ID: "23fec4a6-1e53-4d30-8bb4-1a08632f3545"
   Hint: Image
   Value: |
-    <image mediaid="{63E17DDD-8E91-4AF6-8052-FF666914C5DF}" alt="close-up-hand-holding-smartphone" height="" width="" hspace="" vspace="" />
+    <image mediaid="e4772620-f380-4ab9-902b-52d7c7c3f8d7" />
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "60fd0f9c-5f0b-4f0b-a3c6-cbca90f42d67"
 Languages:
 - Language: en
   Versions:
   - Version: 1
     Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
     - ID: "19611527-1e31-4490-8042-482e61e3ce84"
       Hint: Text
       Value: |
@@ -30,9 +36,23 @@ Languages:
     - ID: "1f0455dc-9254-4487-b94d-6c66f103e7bf"
       Hint: Title
       Value: Say hello to convenient banking with our mobile application
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260210T061005Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "4697bc62-b1d6-4131-8964-e2c6072b9d8a"
+      Value: "4511e7ea-7fcf-4927-94c5-0f67f4b15665"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260210T061005Z
 - Language: "fr-CA"
   Versions:
   - Version: 1
