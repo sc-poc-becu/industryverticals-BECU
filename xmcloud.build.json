@@ -109,18 +109,12 @@
     }
   },
   "deployItems": {
-    "modules": ["Project.IndustryVerticles", "forge", "skywings", "gridwell", "vitalis", "prosperabank", "Project.click-click-launch", "common"]
+    "modules": ["Project.IndustryVerticles", "prosperabank", "Project.click-click-launch", "common"]
   },
   "postActions": {
     "actions": {
       "scsModules": {
         "modules": [
-          "Project.Retail-Content",
-          "Project.Healthcare-Content",
-          "Project.Essentials-Content",
-          "Project.Essentials-Media",
-          "Project.Healthcare-Media",
-          "Project.Retail-Media"
         ]
       },
       "warmUpCm": {
