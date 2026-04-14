@@ -21,9 +21,9 @@ import * as LoanCalculator from 'src/components/Utilities/LoanCalculator';
 import * as LanguageSwitcher from 'src/components/Utilities/LanguageSwitcher';
 import * as ContactForm from 'src/components/Utilities/ContactForm';
 import * as ApplicationForm from 'src/components/Utilities/ApplicationForm';
-import * as Spinner from 'src/components/Search/components/Spinner/Spinner';
 import * as PreviewSearchIcon from 'src/components/Search/PreviewSearch/PreviewSearchIcon';
 import * as PreviewSearch from 'src/components/Search/PreviewSearch/PreviewSearch';
+import * as Spinner from 'src/components/Search/components/Spinner/Spinner';
 import * as TwoColumnCta from 'src/components/PageContent/TwoColumnCta';
 import * as ThreeColumnCta from 'src/components/PageContent/ThreeColumnCta';
 import * as Testimonials from 'src/components/PageContent/Testimonials';
@@ -43,6 +43,7 @@ import * as FourColumnCta from 'src/components/PageContent/FourColumnCta';
 import * as FiveColumnCta from 'src/components/PageContent/FiveColumnCta';
 import * as Features from 'src/components/PageContent/Features';
 import * as DocumentsList from 'src/components/PageContent/DocumentsList';
+import * as Disclosures from 'src/components/PageContent/Disclosures';
 import * as CtaBanner from 'src/components/PageContent/CtaBanner';
 import * as Comparison from 'src/components/PageContent/Comparison';
 import * as Carousel from 'src/components/PageContent/Carousel';
@@ -83,9 +84,9 @@ export const componentMap = new Map<string, NextjsContentSdkComponent>([
   ['LanguageSwitcher', { ...LanguageSwitcher }],
   ['ContactForm', { ...ContactForm }],
   ['ApplicationForm', { ...ApplicationForm }],
-  ['Spinner', { ...Spinner }],
   ['PreviewSearchIcon', { ...PreviewSearchIcon }],
   ['PreviewSearch', { ...PreviewSearch }],
+  ['Spinner', { ...Spinner }],
   ['TwoColumnCta', { ...TwoColumnCta }],
   ['ThreeColumnCta', { ...ThreeColumnCta }],
   ['Testimonials', { ...Testimonials }],
@@ -105,6 +106,7 @@ export const componentMap = new Map<string, NextjsContentSdkComponent>([
   ['FiveColumnCta', { ...FiveColumnCta }],
   ['Features', { ...Features }],
   ['DocumentsList', { ...DocumentsList }],
+  ['Disclosures', { ...Disclosures }],
   ['CtaBanner', { ...CtaBanner }],
   ['Comparison', { ...Comparison }],
   ['Carousel', { ...Carousel }],

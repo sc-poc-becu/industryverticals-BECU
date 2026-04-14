@@ -1,0 +1,38 @@
+﻿---
+ID: "aa5e1a51-1a75-4ab3-933c-35561ff369f1"
+Parent: "d9b14a45-6dc4-4cc9-ac8c-b7c64bff3ffb"
+Template: "66ca469c-15c7-490e-9ed2-9d7499c0584a"
+Path: /sitecore/content/Financial/BECU/Data/DisclosureItems/HELOC Minimum Payment
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0b7c2b1b-995e-4727-b060-988c60fbae9a"
+      Hint: Text
+      Value: |
+        <span style="color: #4d5f69; background-color: #f4f5f5;">During the HELOC intro period your minimum payment amount may be less. During the intro period and after, your monthly payment will equal the amount of accrued interest, subject to the lesser of $100 or your outstanding balance. Because the minimum monthly payment during the draw period is interest only, your principal balance may not be reduced. At the end of the draw period, your monthly payment will increase and equal the amount of principal and interest necessary to pay off the loan balance by the end of the 180-month repayment period. Your payments during both the draw and repayment periods will not include amounts due for property taxes and insurance. The APRs for BECU's HELOCs are variable and are based on the highest Prime Rate as published in the Wall Street Journal on the last day of the previous month plus an applicable margin. Current HELOC rates range from 6.99% APR &ndash; 9.84% APR as of 4/10/2026 and are subject to change. The maximum APR that can apply to BECU's HELOCs is 18%. APRs do not include costs other than interest.</span>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260413T233915Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\michael.sherman@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\michael.sherman@sitecore.com
+    - ID: "853b4366-ac1f-412e-b367-6cba9dec820a"
+      Hint: Reference
+      Value: 2
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "31d9fc87-f011-4cf3-ba3b-0f087ed0eb20"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\michael.sherman@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260413T234004Z

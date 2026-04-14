@@ -1,0 +1,38 @@
+﻿---
+ID: "34c6c48a-1f31-4b35-a391-39fa74368e1d"
+Parent: "8d76da4a-573e-43b9-b95a-9dae77ec672f"
+Template: "0a7aa373-5ed1-4e9b-9678-22d3c5faf6df"
+Path: /sitecore/content/Financial/BECU/Home/BECU YOU/Using Your Home Equity/Data/HELOC Rates
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260210T185418Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\allen.blanton@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\allen.blanton@sitecore.com
+    - ID: "729034fc-24f3-40b7-8fa4-fb49d7de20dd"
+      Hint: Text
+      Value: |
+        <div class="ck-content"><h3>HELOC Rates as Low As¹</h3><p><span style="color:hsl(0, 0%, 60%);"><sup>APR Effective 2/10/2026*</sup></span></p><p><strong>6.99</strong> % APR<br /><sup>Home Equity Line of Credit</sup></p><p><span style="color:hsl(0, 0%, 60%);"><sup>Variable¹</sup></span></p><p><strong>7.24</strong> % APR</p><p><sup>Fixed Rate Advance</sup></p><p><a href="https://becu.org"><sub><sup>*See important information about rates, fees and other costs</sup></sub></a></p></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "08ba1cf3-1a33-48a4-a57f-cf9373d508cd"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\allen.blanton@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260210T190535Z
