@@ -1,0 +1,50 @@
+.disclosures {
+  margin-top: 2rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--border-color, #dee2e6);
+  font-size: $font-small;
+  line-height: 1.5;
+  color: var(--text-body);
+
+  &-heading {
+    letter-spacing: 0.04em;
+    margin-bottom: 0.75rem;
+    color: var(--text-colored, inherit);
+  }
+
+  &-intro {
+    margin-bottom: 1rem;
+
+    p:last-child {
+      margin-bottom: 0;
+    }
+  }
+
+  &-list {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    gap: 0.35rem 0.75rem;
+    margin: 0;
+  }
+
+  &-term {
+    margin: 0;
+    font-weight: 600;
+    grid-column: 1;
+  }
+
+  &-def {
+    margin: 0;
+    grid-column: 2;
+
+    p:last-child {
+      margin-bottom: 0;
+    }
+  }
+
+  &-empty {
+    margin-top: 0;
+    padding-top: 0;
+    border-top: none;
+  }
+}
