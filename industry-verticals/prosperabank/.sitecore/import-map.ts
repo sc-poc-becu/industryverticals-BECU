@@ -9,7 +9,7 @@ import {
 
 import Head from 'next/head';
 import client from 'lib/sitecore-client';
-import { useCallback, useRef, useState, useEffect, useMemo } from 'react';
+import { useCallback, useRef, useState, useEffect, useMemo, Fragment } from 'react';
 import React from 'react';
 import { Placeholder, RichText, NextImage, Link, Text, useSitecore, withDatasourceCheck, CdpHelper, Image as Image_8a80e63291fea86e0744df19113dc44bec187216 } from '@sitecore-content-sdk/nextjs';
 import PreviewSearchWidget from 'src/components/Search/PreviewSearch/PreviewSearch';
@@ -58,6 +58,7 @@ const importMap = [
       { name: 'useState', value: useState },
       { name: 'useEffect', value: useEffect },
       { name: 'useMemo', value: useMemo },
+      { name: 'Fragment', value: Fragment },
       { name: 'default', value: React },
     ]
   },
