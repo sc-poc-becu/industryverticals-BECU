@@ -1,0 +1,45 @@
+﻿---
+ID: "8bacd2ac-5ece-43ee-ba2d-d53bc986514d"
+Parent: "0b45c71d-61ae-44f3-9f7d-6c88185f0b15"
+Template: "f83ccefd-fc41-4a60-9882-8f7ea5cf41a8"
+Path: /sitecore/content/Financial/BECU/Home/articles/Early Retirement
+SharedFields:
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{6E93B791-097D-4329-B6F5-5EE0444E3375}" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260413T214855Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Early Retirement
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\andrew.vieau@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\andrew.vieau@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0bcbc095-1a47-4658-8398-dc3d5373ee08"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\andrew.vieau@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260413T214948Z
+    - ID: "e81c4912-a4d2-4466-842c-02f0b2c9dc42"
+      Hint: Title
+      Value: Early Retirement
