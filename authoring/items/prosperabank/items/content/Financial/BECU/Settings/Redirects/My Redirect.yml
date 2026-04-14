@@ -1,0 +1,47 @@
+﻿---
+ID: "ec603a59-65e1-42e3-bf74-8a6fac2af0f5"
+Parent: "4e13a26f-4376-4ec5-b787-b3265b942272"
+Template: "f4fb6125-f113-4373-8aa2-4648c2c1960e"
+Path: /sitecore/content/Financial/BECU/Settings/Redirects/My Redirect
+SharedFields:
+- ID: "5ecfffc9-d530-4512-b757-9e9830f07d5a"
+  Hint: UrlMapping
+  Value: "%2fmy-page=%2FArticles%2Fmy-page&%2fvanity=%2FBusiness%2FSmall%20business%20loans"
+- ID: "980dfa07-41d4-4c4e-ab28-de657afdb6bc"
+  Hint: RedirectType
+  Value: Redirect301
+- ID: "d3319168-3cff-431e-b3fb-d6a9c0d574a3"
+  Hint: PreserveLanguage
+  Value: 1
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "5b7e5f6d-8db4-498b-962a-fd52d0c79c77"
+- ID: "f24d347e-98c2-4995-a14c-b15697ba86e5"
+  Hint: PreserveQueryString
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260413T210929Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\andrew.vieau@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\andrew.vieau@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a33ff8cc-71d8-436b-af83-2cf823864d06"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\andrew.vieau@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260413T211210Z

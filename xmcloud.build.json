@@ -109,7 +109,7 @@
     }
   },
   "deployItems": {
-    "modules": ["prosperabank", "common"]
+    "modules": ["Project.IndustryVerticles","prosperabank", "common"]
   },
   "postActions": {
     "actions": {

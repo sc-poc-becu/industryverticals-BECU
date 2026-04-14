@@ -1,0 +1,46 @@
+﻿---
+ID: "4c9e684b-541a-49ca-be06-cf6b606d29a5"
+Parent: "954329e5-b246-41e7-897f-52fd6137f90a"
+Template: "395ebce7-cd24-483d-aeb4-13301249d1d4"
+Path: /sitecore/content/Financial/BECU/Data/Disclosures/Variable interest rate disclosure
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{A5BC37E7-ED96-4C1E-8590-A26E64DB55EA}"
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "a6fa3814-5687-4d8e-98f7-d21d00d090eb"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260210T191823Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{190B1C84-F1BE-47ED-AA41-F42193D9C8FC}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0aac3b1c-5b2a-4720-a10c-ce7eff8af999"
+    - ID: "b334e181-d0ec-4766-a739-9d8b1bc4b421"
+      Hint: DisclosureTitle
+      Value: Variable interest rate disclosure
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\zach.escabedo@sitecore.com
+    - ID: "c0e60ae0-3478-416f-8596-ca71351c973d"
+      Hint: Summary
+      Value: How changes in interest rates may affect your payments and balance.
+    - ID: "d50dd51e-82d0-44a9-9ad2-ec8322493f6f"
+      Hint: Body
+      Value: <p>HELOCs typically have variable interest rates that may increase or decrease over the life of the line of credit. Changes to the interest rate will affect the amount of your monthly payment and the total interest paid over time. Rate adjustments are based on an index and margin as outlined in your agreement. Members should consider the potential impact of rate increases when evaluating whether a HELOC is appropriate for their financial situation.</p>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260210T191837Z

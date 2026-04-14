@@ -1,0 +1,37 @@
+﻿---
+ID: "98b08924-d366-423f-b6b5-97757e741b6a"
+Parent: "d9b14a45-6dc4-4cc9-ac8c-b7c64bff3ffb"
+Template: "66ca469c-15c7-490e-9ed2-9d7499c0584a"
+Path: /sitecore/content/Financial/BECU/Data/DisclosureItems/HELOC Criteria
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0b7c2b1b-995e-4727-b060-988c60fbae9a"
+      Hint: Text
+      Value: "<p>Financing is subject to BECU membership, credit approval and other underwriting criteria in the following states: WA, AZ, CA, ID, IL, KS, MI, OR, PA, SC; not every applicant will qualify. BECU must be able to perfect a first or second mortgage lien on your one-to-four family residence. Borrower will not have to pay any upfront fees to open the HELOC in normal circumstances. Borrower is required to pay for optional services (e.g., if Borrower retains an attorney that Borrower is not required to use). In South Carolina, where the law requires use of an attorney, BECU will be solely responsible for paying all attorneys' fees and costs necessary to open the HELOC and will perform this responsibility fully by paying all reasonable attorneys' fees and costs related specifically to the closing based on rates typically charged by attorneys in the local market for the closing of similar HELOC transactions. If the title report shows more than one existing lien, judgments, deceased owners or other title issues, or if the appraisal shows problems with the subject property, however, then Borrower may be required to pay third parties to subordinate or otherwise resolve such title issues and/or to repair or otherwise resolve such property problems. These third-party charges may range from an average of $150.00 to $775.00 based on the specific circumstance. This range of charges does not include estimates for the costs of home repairs. Additional state or local mortgage fees or taxes may apply. Borrower will be required to pay for hazard insurance (including flood insurance, if applicable) throughout the term of the HELOC. When the HELOC terminates, Borrower will be required to pay a reconveyance fee of up to $327.50. This fee must also be paid when refinancing your existing BECU HELOC with a new HELOC &mdash; this fee is subject to change at any time. Loan programs, terms and conditions are subject to change without notice.</p>"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260413T224610Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\michael.sherman@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\michael.sherman@sitecore.com
+    - ID: "853b4366-ac1f-412e-b367-6cba9dec820a"
+      Hint: Reference
+      Value: 1
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9d559bc6-9d11-472c-a0ae-cf873133d2c9"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\michael.sherman@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260413T224655Z
