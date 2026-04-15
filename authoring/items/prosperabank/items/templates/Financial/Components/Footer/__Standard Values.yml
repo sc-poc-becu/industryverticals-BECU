@@ -30,6 +30,9 @@ Languages:
         <a href="#rewards">Rewards</a></p>
         <p>
         <a href="#special-offers">Special Offers</a></p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260415T011215Z
     - ID: "33526cb5-70d7-401e-bb5c-fdd6c2c974c2"
       Hint: SocialIcon2
       Value: |
@@ -88,6 +91,10 @@ Languages:
       Hint: SocialLink1
       Value: |
         <link text="Facebook" linktype="external" url="https://www.facebook.com/" anchor="" target="" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\NCmpg1NJNoisu0v2Hkl2W4WbpXbnkjY3
     - ID: "ca370d33-63e1-4e1b-986d-fe82ae23027c"
       Hint: Text2
       Value: |
@@ -95,6 +102,9 @@ Languages:
               <a href="#business-accounts">Small Business Accounts</a>
             </p>
         <p><a href="#commercial-accounts">Commercial Accounts</a></p>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260415T011215Z
     - ID: "dcf0b02e-fa59-48c0-bc92-5bce6ddfde18"
       Hint: SocialIcon1
       Value: |

@@ -127,6 +127,9 @@ Languages:
         <p>En tant que partie intégrante de la plateforme de banque en ligne de confiance, MOBILE! Finance offre une intégration transparente avec vos comptes bancaires existants, vous offrant une vue d'ensemble de vos finances en un seul endroit pratique. De plus, avec notre interface conviviale et notre design intuitif, gérer votre argent n'a jamais été aussi facile et agréable.</p>
         <p><strong>Commencez dès aujourd'hui</strong></p>
         <p>Prêt à prendre le contrôle de vos finances et à débloquer votre potentiel financier? Téléchargez dès maintenant l'application MOBILE! Finance et rejoignez des milliers d'utilisateurs satisfaits qui profitent déjà des avantages de la banque moderne avec PLAY! Finance.</p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260415T011307Z
     - ID: "3e700dce-26eb-4bf0-990f-9d9fe555990d"
       Hint: Excerpt
       Value: "Nous sommes ravis de vous présenter MOBILE! Finance, une nouvelle application financière révolutionnaire conçue pour transformer votre façon de gérer vos finances et vos opérations bancaires."
@@ -136,6 +139,13 @@ Languages:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "f8b12913-9418-46bc-82bc-36e813da0373"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\NCmpg1NJNoisu0v2Hkl2W4WbpXbnkjY3
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260415T011307Z
     - ID: "e81c4912-a4d2-4466-842c-02f0b2c9dc42"
       Hint: Title
       Value: "On vous présente MOBILE! Finance : Votre nouvelle application de compagnon financier"
@@ -166,6 +176,9 @@ Languages:
         <p>信頼できるオンライン・バンキング・プラットフォームの一部として, MOBILE! Finance は、既存の銀行口座とのシームレスな統合を提供し、便利な1つの場所であなたの財政の全体的なビューを提供します。 さらに、ユーザーフレンドリーなインターフェースと直感的なデザインで、お金の管理がかつてないほど簡単で楽しいものになります。</p>
         <p><strong>今日から始めよう</strong></p>
         <p>家計を管理し、潜在能力を引き出す準備はできていますか？ MOBILE！ Financeアプリを今すぐダウンロードして、PLAYでモダン・バンキングのメリットを体験し、満足している何千人ものユーザーに加わりましょう！ ファイナンス。</p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260415T011307Z
     - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
       Hint: __Workflow state
       Value: "{13D6CCE7-A6C3-4EE1-A1D9-8A8E34225ED7}"
@@ -178,6 +191,13 @@ Languages:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "79dc2968-1570-4c5e-8127-31dfffcfd4a0"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\NCmpg1NJNoisu0v2Hkl2W4WbpXbnkjY3
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260415T011307Z
     - ID: "e81c4912-a4d2-4466-842c-02f0b2c9dc42"
       Hint: Title
       Value: MOBILEのご紹介！ ファイナンス 新しい財務コンパニオンアプリ

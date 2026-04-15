@@ -117,6 +117,9 @@ Languages:
     - ID: "247be607-394a-4bf2-8c8a-509b07025dd9"
       Hint: Title
       Value: Service à la clientèle
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260415T011250Z
     - ID: "3d30539f-d403-496a-a512-ac885b1a2f8b"
       Hint: Content
       Value: <p>Ici pour aider, à toutes les étapes</p>
@@ -126,6 +129,13 @@ Languages:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "92e13a62-654e-4cde-adf2-114cc42717e5"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\NCmpg1NJNoisu0v2Hkl2W4WbpXbnkjY3
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260415T011250Z
 - Language: "ja-JP"
   Fields:
   - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
@@ -137,6 +147,9 @@ Languages:
     - ID: "247be607-394a-4bf2-8c8a-509b07025dd9"
       Hint: Title
       Value: カスタマーサポート
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260415T011250Z
     - ID: "3d30539f-d403-496a-a512-ac885b1a2f8b"
       Hint: Content
       Value: <p>すべてのステップをサポート</p>
@@ -149,3 +162,10 @@ Languages:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "14755705-8b34-4df8-a1d4-1b22a8a02d4d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\NCmpg1NJNoisu0v2Hkl2W4WbpXbnkjY3
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260415T011250Z

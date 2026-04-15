@@ -175,6 +175,9 @@ Languages:
     - ID: "247be607-394a-4bf2-8c8a-509b07025dd9"
       Hint: Title
       Value: Prêt pour consommateurs en ligne
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260415T011248Z
     - ID: "3d30539f-d403-496a-a512-ac885b1a2f8b"
       Hint: Content
       Value: "Pour tous vos souhaits - nous avons la solution adaptée"
@@ -184,6 +187,13 @@ Languages:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "14605f5d-fd77-48b1-8dba-54a8ebab716c"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\NCmpg1NJNoisu0v2Hkl2W4WbpXbnkjY3
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260415T011248Z
 - Language: "ja-JP"
   Fields:
   - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
@@ -195,6 +205,9 @@ Languages:
     - ID: "247be607-394a-4bf2-8c8a-509b07025dd9"
       Hint: Title
       Value: 消費者ローン・オンライン
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260415T011249Z
     - ID: "3d30539f-d403-496a-a512-ac885b1a2f8b"
       Hint: Content
       Value: あらゆるご希望にお応えします。
@@ -207,3 +220,10 @@ Languages:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "00ae05bc-42d2-4b08-a9f3-83711c9340d5"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\NCmpg1NJNoisu0v2Hkl2W4WbpXbnkjY3
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260415T011249Z

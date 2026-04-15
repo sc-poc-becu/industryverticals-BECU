@@ -37,12 +37,19 @@ Languages:
     - ID: "10c6bd9b-7e77-47aa-a1fb-0e2ae97f81d0"
       Hint: Title
       Value: $name
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260415T011209Z
     - ID: "2d078f28-3700-4ab1-a5bd-24fcc36316c4"
       Hint: Category
       Value: Branding
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "724ce031-cd1a-49c3-bd66-f12eab969347"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\NCmpg1NJNoisu0v2Hkl2W4WbpXbnkjY3
     - ID: "c9ffb36d-8811-4406-b6e7-382a9cbda5e6"
       Hint: Problem
       Value: |
@@ -52,6 +59,9 @@ Languages:
         <p>Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Proin at mauris vel purus vestibulum consectetur. Nam efficitur lectus auctor, hendrerit ligula nec, pharetra ex.</p>
         <p>Suspendisse potenti. Sed ac arcu scelerisque, hendrerit risus eu, ultricies libero. Pellentesque ut magna eu elit fringilla viverra. Quisque ullamcorper orci a magna finibus, nec feugiat urna semper. Praesent blandit purus vel ligula finibus, nec fermentum dui ultrices. Nulla vitae justo a felis luctus dignissim. Aliquam eu tortor eget libero placerat semper.</p>
         <p>In consequat, libero sed viverra placerat, metus lectus accumsan velit, a suscipit elit dui sit amet justo. Fusce vitae purus vel justo aliquam hendrerit. Integer pretium mi vel ex convallis, vel dignissim ex finibus.</p>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260415T011209Z
     - ID: "f9fc60e0-645c-4889-bc5e-ecca56535542"
       Hint: Client
       Value: |
@@ -60,13 +70,33 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260415T011209Z
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "b37d1d52-2014-432f-aa1a-3078d2d88560"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\NCmpg1NJNoisu0v2Hkl2W4WbpXbnkjY3
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260415T011209Z
 - Language: "ja-JP"
   Versions:
   - Version: 1
     Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260415T011209Z
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "57515208-5e43-4b89-bfbb-32a9ef1ef3a6"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\NCmpg1NJNoisu0v2Hkl2W4WbpXbnkjY3
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260415T011209Z

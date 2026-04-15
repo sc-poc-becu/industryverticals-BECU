@@ -131,6 +131,9 @@ Languages:
     - ID: "247be607-394a-4bf2-8c8a-509b07025dd9"
       Hint: Title
       Value: Personnel
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260415T011248Z
     - ID: "3d30539f-d403-496a-a512-ac885b1a2f8b"
       Hint: Content
       Value: <p>Il n’existe qu’un seul avenir parfait. Le vôtre.</p>
@@ -140,6 +143,13 @@ Languages:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "a9e71d12-dd52-460b-975b-185b520575ab"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\NCmpg1NJNoisu0v2Hkl2W4WbpXbnkjY3
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260415T011248Z
 - Language: "ja-JP"
   Fields:
   - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
@@ -154,6 +164,9 @@ Languages:
     - ID: "247be607-394a-4bf2-8c8a-509b07025dd9"
       Hint: Title
       Value: 個人のお客さま
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260415T011248Z
     - ID: "3d30539f-d403-496a-a512-ac885b1a2f8b"
       Hint: Content
       Value: <p>完璧な未来は一つしかない。 君のものだ</p>
@@ -166,3 +179,10 @@ Languages:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "372488db-c5ff-4178-a231-ce9ead0eb4e8"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\NCmpg1NJNoisu0v2Hkl2W4WbpXbnkjY3
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260415T011248Z

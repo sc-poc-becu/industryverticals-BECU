@@ -12,6 +12,9 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260415T011211Z
     - ID: "4cea0fff-861b-4220-b782-13c4b4d87602"
       Hint: Title
       Value: Lorem ipsum
@@ -25,10 +28,20 @@ Languages:
       Hint: Icon
       Value: |
         <image mediaid="{8845B07E-7F3B-46F0-9748-57F7ACF56BB1}" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\NCmpg1NJNoisu0v2Hkl2W4WbpXbnkjY3
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260415T011211Z
 - Language: "fr-CA"
   Versions:
   - Version: 1
     Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260415T011211Z
     - ID: "4cea0fff-861b-4220-b782-13c4b4d87602"
       Hint: Title
       Value: <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
@@ -38,3 +51,10 @@ Languages:
     - ID: "b5316ca6-a961-499b-b65e-3d98d49a8f47"
       Hint: Icon
       Value: Lorem ipsum dolor sit amet
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\NCmpg1NJNoisu0v2Hkl2W4WbpXbnkjY3
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260415T011211Z

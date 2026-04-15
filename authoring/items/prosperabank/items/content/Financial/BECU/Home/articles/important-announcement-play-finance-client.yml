@@ -130,6 +130,9 @@ Languages:
         <p>Pour plus d'informations sur ces mises à jour passionnantes et comment elles bénéficieront aux clients de PLAY! Finance, visitez le site web de PLAY! Finance ou votre agence locale.</p>
         <p><strong>À propos de PLAY! Finance</strong><br />
         PLAY! Finance est un fournisseur leader de solutions financières innovantes, dédié à permettre aux individus d'atteindre le bien-être financier. Grâce à une technologie avancée et des outils personnalisés, PLAY! Finance redéfinit la façon dont les consommateurs interagissent avec leurs finances, rendant la gestion financière accessible, engageante et gratifiante pour tous.</p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260415T011306Z
     - ID: "3e700dce-26eb-4bf0-990f-9d9fe555990d"
       Hint: Excerpt
       Value: "PLAY! Finance annonce une série d'améliorations et d'extensions visant à optimiser l'expérience client et à renforcer l'autonomisation financière."
@@ -139,6 +142,13 @@ Languages:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "27fadf1c-dda9-4439-8e5d-dbb7d0a10e21"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\NCmpg1NJNoisu0v2Hkl2W4WbpXbnkjY3
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260415T011306Z
     - ID: "e81c4912-a4d2-4466-842c-02f0b2c9dc42"
       Hint: Title
       Value: Une annonce importante pour nos clients
@@ -172,6 +182,9 @@ Languages:
         <p><strong>PLAY! Financeについて</strong><br />
         PLAY! Financeは、革新的な金融ソリューションを提供するリーディングプロバイダーとして、個人が財務的な健康を達成できるよう支援しています。先端技術と個別対応のツールを通じて、PLAY! Financeは顧客が財務管理を身近に、魅力的に、そして有意義に感じられるよう再定義しています。</p>
         
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260415T011306Z
     - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
       Hint: __Workflow state
       Value: "{13D6CCE7-A6C3-4EE1-A1D9-8A8E34225ED7}"
@@ -184,6 +197,13 @@ Languages:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "8ecc24f5-6922-49c7-9cef-160bc19ed356"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\NCmpg1NJNoisu0v2Hkl2W4WbpXbnkjY3
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260415T011306Z
     - ID: "e81c4912-a4d2-4466-842c-02f0b2c9dc42"
       Hint: Title
       Value: お客様へ重要なお知らせ

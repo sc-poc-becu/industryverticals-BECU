@@ -32,6 +32,12 @@
         "path": "/sitecore/media library/Project/financial",
         "scope": "ItemAndDescendants", 
         "allowedPushOperations": "CreateUpdateAndDelete"
+      },
+      {
+        "name": "workflow",
+        "path": "/sitescore/system/Workflows",
+        "scope": "DescendantsOnly",
+        "allowedPushOperations": "CreateAndUpdate"
       }
     ]
   }

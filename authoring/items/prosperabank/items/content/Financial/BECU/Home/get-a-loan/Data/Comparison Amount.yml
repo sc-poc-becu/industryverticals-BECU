@@ -17,12 +17,22 @@ Languages:
     - ID: "22ea3b6c-7d16-47dc-b1d7-9e6686c6bd9b"
       Hint: Amount2
       Value: 80000
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260415T011333Z
     - ID: "55199a29-334d-41c9-b133-7163c9e82a7c"
       Hint: Currency2
       Value: eur
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "2d787b17-b228-4682-bb17-49f0998ff925"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\NCmpg1NJNoisu0v2Hkl2W4WbpXbnkjY3
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260415T011333Z
     - ID: "ef3b1e0a-490d-4340-8ebc-5612d6be5e74"
       Hint: Currency1
       Value: eur
@@ -36,6 +46,9 @@ Languages:
     - ID: "22ea3b6c-7d16-47dc-b1d7-9e6686c6bd9b"
       Hint: Amount2
       Value: 80000
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260415T011334Z
     - ID: "55199a29-334d-41c9-b133-7163c9e82a7c"
       Hint: Currency2
       Value: eur
@@ -45,6 +58,13 @@ Languages:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "aa6a9ee5-ab9a-4592-8721-26cb91b24c6a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\NCmpg1NJNoisu0v2Hkl2W4WbpXbnkjY3
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260415T011334Z
     - ID: "ef3b1e0a-490d-4340-8ebc-5612d6be5e74"
       Hint: Currency1
       Value: eur
@@ -58,6 +78,9 @@ Languages:
     - ID: "22ea3b6c-7d16-47dc-b1d7-9e6686c6bd9b"
       Hint: Amount2
       Value: 80000
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260415T011334Z
     - ID: "55199a29-334d-41c9-b133-7163c9e82a7c"
       Hint: Currency2
       Value: eur
@@ -70,6 +93,13 @@ Languages:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "04146bff-fecd-4729-bdda-dd1fa5308ba4"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\NCmpg1NJNoisu0v2Hkl2W4WbpXbnkjY3
     - ID: "bd2c7af4-8f8f-4518-8d5d-2c1006bce654"
       Hint: Subtitle2
       Value: 最大
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260415T011334Z

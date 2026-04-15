@@ -146,6 +146,9 @@ Languages:
         
         <p><strong>À propos de PLAY! Finance</strong><br />
         PLAY! Finance est un fournisseur leader de solutions financières innovantes, dédié à permettre aux individus d'atteindre le bien-être financier. Grâce à une technologie avancée et des outils personnalisés, PLAY! Finance redéfinit la façon dont les consommateurs interagissent avec leurs finances, rendant la gestion financière accessible, engageante et gratifiante pour tous.</p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260415T011307Z
     - ID: "3e700dce-26eb-4bf0-990f-9d9fe555990d"
       Hint: Excerpt
       Value: "PLAY! Finance introduit une suite de solutions financières innovantes, utilisant la technologie avancée et la gamification pour permettre aux utilisateurs de gérer leurs finances de manière engageante et gratifiante."
@@ -155,6 +158,13 @@ Languages:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "b222c986-27eb-4464-a3f1-f8be4d350f18"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\NCmpg1NJNoisu0v2Hkl2W4WbpXbnkjY3
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260415T011307Z
     - ID: "e81c4912-a4d2-4466-842c-02f0b2c9dc42"
       Hint: Title
       Value: On vous présente des solutions financières innovantes pour les consommateurs modernes
@@ -196,6 +206,9 @@ Languages:
         <p><strong>PLAY! Financeについて</strong><br />
         PLAY! Financeは、革新的な金融ソリューションを提供するリーディングプロバイダーとして、個人が財務的な健康を達成できるよう支援しています。先端技術と個別対応のツールを通じて、PLAY! Financeは顧客が財務管理を身近に、魅力的に、そして有意義に感じられるよう再定義しています。</p>
         
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260415T011307Z
     - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
       Hint: __Workflow state
       Value: "{F0C30D3F-4537-4F66-98A4-213D0FA050FE}"
@@ -208,6 +221,13 @@ Languages:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "45933a86-2d6a-4cfb-9f53-82189e6388be"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\NCmpg1NJNoisu0v2Hkl2W4WbpXbnkjY3
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260415T011307Z
     - ID: "e81c4912-a4d2-4466-842c-02f0b2c9dc42"
       Hint: Title
       Value: 現代消費者のための革新的な金融ソリューションを紹介

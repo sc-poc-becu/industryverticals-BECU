@@ -69,6 +69,9 @@ Languages:
     - ID: "247be607-394a-4bf2-8c8a-509b07025dd9"
       Hint: Title
       Value: Everyday banking
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260415T011303Z
     - ID: "3d30539f-d403-496a-a512-ac885b1a2f8b"
       Hint: Content
       Value: "It's easy to get started - even with no previous credit history!"
@@ -81,6 +84,13 @@ Languages:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "07fb959d-d03e-4051-a3e2-43934d403a51"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\NCmpg1NJNoisu0v2Hkl2W4WbpXbnkjY3
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260415T011303Z
 - Language: "fr-CA"
   Fields:
   - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
@@ -92,6 +102,9 @@ Languages:
     - ID: "247be607-394a-4bf2-8c8a-509b07025dd9"
       Hint: Title
       Value: Banque au quotidien
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260415T011303Z
     - ID: "3d30539f-d403-496a-a512-ac885b1a2f8b"
       Hint: Content
       Value: "C'est facile de commencer - même sans historique de crédit préalable !"
@@ -101,6 +114,13 @@ Languages:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "2d45d187-6645-411c-a471-6634dccac07e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\NCmpg1NJNoisu0v2Hkl2W4WbpXbnkjY3
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260415T011303Z
 - Language: "ja-JP"
   Fields:
   - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
@@ -115,6 +135,9 @@ Languages:
     - ID: "247be607-394a-4bf2-8c8a-509b07025dd9"
       Hint: Title
       Value: デイリーバンキング
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260415T011303Z
     - ID: "3d30539f-d403-496a-a512-ac885b1a2f8b"
       Hint: Content
       Value: クレジット履歴がなくても、簡単に始めることができる！
@@ -127,3 +150,10 @@ Languages:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "20febde2-2189-4dba-9d97-4e6832cab76d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\NCmpg1NJNoisu0v2Hkl2W4WbpXbnkjY3
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260415T011303Z

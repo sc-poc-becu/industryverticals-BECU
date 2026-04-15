@@ -13,6 +13,9 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260415T011210Z
     - ID: "3351af3f-868e-47fc-b5c3-ad0446981faf"
       Hint: Title
       Value: Lorem ipsum dolor sit amet
@@ -26,3 +29,10 @@ Languages:
     - ID: "ad84ce04-c8f0-485e-bf12-9b321c6ff2fb"
       Hint: Text
       Value: <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\NCmpg1NJNoisu0v2Hkl2W4WbpXbnkjY3
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260415T011210Z

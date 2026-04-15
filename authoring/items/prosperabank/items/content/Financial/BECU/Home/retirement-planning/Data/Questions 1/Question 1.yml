@@ -13,12 +13,22 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260415T011358Z
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "ba599512-a33b-47b7-b666-62d422528dfb"
     - ID: "93ba0221-aa2a-4a04-b8f6-39c2ab65c694"
       Hint: Question
       Value: "How easy is it to transfer from an existing organization?"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\NCmpg1NJNoisu0v2Hkl2W4WbpXbnkjY3
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260415T011358Z
     - ID: "ef205dfd-6af2-4514-b694-77efa748f951"
       Hint: Answer
       Value: |
@@ -29,12 +39,22 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260415T011358Z
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "54afdb50-85f3-4602-923d-e47ac867d8a9"
     - ID: "93ba0221-aa2a-4a04-b8f6-39c2ab65c694"
       Hint: Question
       Value: "Quelle est la facilité de transférer depuis une organisation existante ?"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\NCmpg1NJNoisu0v2Hkl2W4WbpXbnkjY3
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260415T011358Z
     - ID: "ef205dfd-6af2-4514-b694-77efa748f951"
       Hint: Answer
       Value: |
@@ -45,12 +65,22 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260415T011358Z
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "39808961-def9-44cf-bd47-7082f22905a0"
     - ID: "93ba0221-aa2a-4a04-b8f6-39c2ab65c694"
       Hint: Question
       Value: 既存の組織からの移籍は簡単ですか？
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\NCmpg1NJNoisu0v2Hkl2W4WbpXbnkjY3
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260415T011358Z
     - ID: "ef205dfd-6af2-4514-b694-77efa748f951"
       Hint: Answer
       Value: 問題ありません！ 私たちはいつもそうしています。 既存の退職金制度を移行するには、当社と現在のプロバイダーに解約通知を送付してください。 あとは私たちが調整し、プロセス全体を通して最新情報をお知らせします。

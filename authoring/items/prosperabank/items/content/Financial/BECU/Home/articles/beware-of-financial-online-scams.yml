@@ -153,6 +153,9 @@ Languages:
         <p><strong>Conclusion</strong></p>
         <p>Pour vous protéger des arnaques financières en ligne, il est nécessaire de rester informé, de faire preuve de scepticisme et de prendre des mesures proactives pour protéger vos informations personnelles et financières. En restant informé et en faisant preuve de prudence lors des transactions en ligne, vous pouvez réduire le risque de tomber victime de ces arnaques et profiter d'une expérience en ligne plus sécurisée.</p>
         <p>Souvenez-vous, si quelque chose semble suspect ou trop beau pour être vrai, c'est probablement le cas. Restez vigilant, faites confiance à vos instincts et donnez toujours la priorité à votre sécurité financière.</p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260415T011308Z
     - ID: "3e700dce-26eb-4bf0-990f-9d9fe555990d"
       Hint: Excerpt
       Value: Les arnaques financières en ligne constituent une menace importante pour la sécurité financière des individus, nécessitant une vigilance accrue et de la prudence. Restez vigilant contre les tentatives de phishing, les stratagèmes d'investissement et les fraudes liées aux achats en ligne pour vous protéger.
@@ -162,6 +165,13 @@ Languages:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "db389083-8d65-42a1-bc41-f42bd4e0ca19"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\NCmpg1NJNoisu0v2Hkl2W4WbpXbnkjY3
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260415T011308Z
     - ID: "e81c4912-a4d2-4466-842c-02f0b2c9dc42"
       Hint: Title
       Value: "Protégez-vous : Méfiez-vous des arnaques financières en ligne"
@@ -193,6 +203,9 @@ Languages:
         <p><strong>結論</strong></p>
         <p>金融オンライン詐欺から身を守るには、意識と懐疑心、そして個人情報と金融情報を守るための積極的な対策が必要です。 オンライン取引を行う際には、常に情報を入手し、注意を払うことで、詐欺の被害に遭うリスクを減らし、より安全なオンライン取引を楽しむことができます。</p>
         <p>怪しいと思ったり、出来すぎだと思ったりしたら、おそらくそうであることを忘れないでほしい。 用心深く、自分の直感を信じ、常に経済的な安全を優先させましょう。</p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260415T011308Z
     - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
       Hint: __Workflow state
       Value: "{13D6CCE7-A6C3-4EE1-A1D9-8A8E34225ED7}"
@@ -205,6 +218,13 @@ Languages:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "79c99e6d-4cb1-4412-a57d-cb011613b8f0"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\NCmpg1NJNoisu0v2Hkl2W4WbpXbnkjY3
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260415T011308Z
     - ID: "e81c4912-a4d2-4466-842c-02f0b2c9dc42"
       Hint: Title
       Value: 自分の身は自分で守る： 金融オンライン詐欺に注意

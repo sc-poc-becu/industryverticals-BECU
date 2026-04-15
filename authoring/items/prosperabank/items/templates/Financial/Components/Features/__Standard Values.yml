@@ -25,6 +25,9 @@ Languages:
     - ID: "188ab916-1cc0-4034-b57a-7d62bafcca30"
       Hint: Title2
       Value: Accessibility
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260415T011215Z
     - ID: "2ea267e1-7e99-40db-b919-2ab9ade0658c"
       Hint: Link
       Value: |
@@ -35,9 +38,16 @@ Languages:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "bfe4207c-f8c0-4abd-b65b-0829ff5afc2b"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\NCmpg1NJNoisu0v2Hkl2W4WbpXbnkjY3
     - ID: "c4e8a8a6-23ee-4204-a871-d7615b0ccd3e"
       Hint: Text2
       Value: Business understanding, ability to put themselves.
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260415T011215Z
     - ID: "e325f933-a74c-4ab8-a40e-a6298391e093"
       Hint: Title1
       Value: Professional
@@ -48,9 +58,19 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260415T011215Z
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "679fdbac-d923-49e2-8d45-d64f658b5b83"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\NCmpg1NJNoisu0v2Hkl2W4WbpXbnkjY3
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260415T011215Z
     - ID: "ea0498ea-e265-4f30-a26d-0650429f5f56"
       Hint: Text
       Value: Amount

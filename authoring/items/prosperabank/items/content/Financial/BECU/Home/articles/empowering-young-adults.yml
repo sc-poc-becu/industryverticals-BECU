@@ -131,6 +131,9 @@ Languages:
         <p>Chez PLAY! Finance, nous nous engageons à donner aux jeunes adultes les moyens de prendre le contrôle de leur avenir financier. En leur fournissant les connaissances, les outils et le soutien dont ils ont besoin pour prendre des décisions éclairées, nous croyons que nous pouvons les aider à atteindre leurs objectifs et leurs aspirations, les mettant sur la voie du succès et de la prospérité à long terme.</p>
         
         <p><em><strong>Êtes-vous prêt à prendre le contrôle de votre avenir financier ? Rejoignez-nous chez PLAY! Finance et embarquez dès aujourd'hui pour un parcours vers l'autonomie financière !</strong></em></p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260415T011309Z
     - ID: "3e700dce-26eb-4bf0-990f-9d9fe555990d"
       Hint: Excerpt
       Value: La littératie financière est la clé pour débloquer des opportunités et atteindre des objectifs à long terme. Nous avons développé un programme complet spécialement conçu pour les jeunes adultes, leur fournissant les outils, les ressources et les connaissances dont ils ont besoin pour réussir.
@@ -140,6 +143,13 @@ Languages:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "02c8f5c1-b7fc-46d4-ae79-2676d750bc35"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\NCmpg1NJNoisu0v2Hkl2W4WbpXbnkjY3
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260415T011309Z
     - ID: "e81c4912-a4d2-4466-842c-02f0b2c9dc42"
       Hint: Title
       Value: "Autonomiser les jeunes adultes : Prendre le contrôle de votre avenir financier"
@@ -173,6 +183,9 @@ Languages:
         
         <p><em><strong>あなたも自身の経済的未来を管理する準備はできていますか？PLAY! Financeとともに、金融力を身に付ける旅に出ましょう！</strong></em></p>
         
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260415T011309Z
     - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
       Hint: __Workflow state
       Value: "{13D6CCE7-A6C3-4EE1-A1D9-8A8E34225ED7}"
@@ -185,6 +198,13 @@ Languages:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "3a40c793-b00b-416c-959a-3dc29df43ac7"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\NCmpg1NJNoisu0v2Hkl2W4WbpXbnkjY3
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260415T011309Z
     - ID: "e81c4912-a4d2-4466-842c-02f0b2c9dc42"
       Hint: Title
       Value: 若い大人に力を与える： 経済的な未来をコントロールする

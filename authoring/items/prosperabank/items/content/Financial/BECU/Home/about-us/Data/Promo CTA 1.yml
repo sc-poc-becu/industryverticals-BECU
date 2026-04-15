@@ -19,6 +19,9 @@ Languages:
     - ID: "1f82a687-0683-426f-b12a-4b2100a6a481"
       Hint: Title
       Value: Our commitment to you
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260415T011338Z
     - ID: "2fbad11a-8129-4c7e-aacc-6973619327a1"
       Hint: Eyebrow
       Value: 
@@ -31,9 +34,16 @@ Languages:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "bd99d0f0-4698-4cd6-9af2-2d0ec132aed1"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\NCmpg1NJNoisu0v2Hkl2W4WbpXbnkjY3
     - ID: "cc0cb595-ce5c-413e-b413-3a7176347f28"
       Hint: Text
       Value: "<p>A customer-first mindset is how PLAY! Finance approaches all important decisions. Our business is based on taking care of customer needs.</p>"
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260415T011338Z
     - ID: "e4f11fe1-3b24-42e4-8cea-9ed7fda32bab"
       Hint: Subtitle
       Value: 
@@ -44,6 +54,9 @@ Languages:
     - ID: "1f82a687-0683-426f-b12a-4b2100a6a481"
       Hint: Title
       Value: Notre engagement envers vous
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260415T011338Z
     - ID: "2fbad11a-8129-4c7e-aacc-6973619327a1"
       Hint: Eyebrow
       Value: 
@@ -56,9 +69,16 @@ Languages:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "40eb70a8-a656-4416-8175-1d7255a2d0d4"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\NCmpg1NJNoisu0v2Hkl2W4WbpXbnkjY3
     - ID: "cc0cb595-ce5c-413e-b413-3a7176347f28"
       Hint: Text
       Value: "<p>Une mentalité axée sur le client est la manière dont PLAY! Finance aborde toutes les décisions importantes. Notre entreprise repose sur la satisfaction des besoins des clients.</p>"
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260415T011338Z
     - ID: "e4f11fe1-3b24-42e4-8cea-9ed7fda32bab"
       Hint: Subtitle
       Value: 
@@ -69,6 +89,9 @@ Languages:
     - ID: "1f82a687-0683-426f-b12a-4b2100a6a481"
       Hint: Title
       Value: お客様へのコミットメント
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260415T011338Z
     - ID: "2fbad11a-8129-4c7e-aacc-6973619327a1"
       Hint: Eyebrow
       Value: 
@@ -81,9 +104,16 @@ Languages:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "53c997e2-bfa4-4869-bc9e-3e4a04babed9"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\NCmpg1NJNoisu0v2Hkl2W4WbpXbnkjY3
     - ID: "cc0cb595-ce5c-413e-b413-3a7176347f28"
       Hint: Text
       Value: <p>顧客第一の考え方がPLAY！ ファイナンスはすべての重要な決断にアプローチします。 私たちのビジネスは、お客様のニーズを大切にすることを基本としています。</p>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260415T011338Z
     - ID: "e4f11fe1-3b24-42e4-8cea-9ed7fda32bab"
       Hint: Subtitle
       Value: 

@@ -42,15 +42,25 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260415T011335Z
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "50b65341-d540-4ca7-b494-1371b72e7111"
     - ID: "a68b430b-d594-4dc9-90f4-c8fed1aa4244"
       Hint: FullName
       Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\NCmpg1NJNoisu0v2Hkl2W4WbpXbnkjY3
     - ID: "d663bd4f-2e16-421d-84a8-6c54fa9ddc0e"
       Hint: Title
       Value: Appliquer
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260415T011335Z
     - ID: "de1ea50c-6bff-4b85-ab2f-c99e57326322"
       Hint: Subtitle
       Value: "Postulez en ligne pour un prêt à la consommation sans frais pour l'examen et l'approbation de la demande!"
@@ -67,12 +77,22 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260415T011335Z
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "2d5193ee-6481-468b-a6d2-2281ed5035c2"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\NCmpg1NJNoisu0v2Hkl2W4WbpXbnkjY3
     - ID: "d663bd4f-2e16-421d-84a8-6c54fa9ddc0e"
       Hint: Title
       Value: 応募する
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260415T011335Z
     - ID: "de1ea50c-6bff-4b85-ab2f-c99e57326322"
       Hint: Subtitle
       Value: 消費者金融のオンライン申し込みは、審査と承認に手数料がかかりません！

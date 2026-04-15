@@ -19,6 +19,9 @@ Languages:
     - ID: "1f82a687-0683-426f-b12a-4b2100a6a481"
       Hint: Title
       Value: We've got answers
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260415T011336Z
     - ID: "2fbad11a-8129-4c7e-aacc-6973619327a1"
       Hint: Eyebrow
       Value: 
@@ -31,9 +34,16 @@ Languages:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "3bcf6327-fb9e-4111-b30c-642c41636ce7"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\NCmpg1NJNoisu0v2Hkl2W4WbpXbnkjY3
     - ID: "cc0cb595-ce5c-413e-b413-3a7176347f28"
       Hint: Text
       Value: <p>Whether you're new to managing your finances or a seasoned pro, our comprehensive FAQ section is designed to provide you with quick and clear answers to all your financial queries.</p>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260415T011336Z
     - ID: "e4f11fe1-3b24-42e4-8cea-9ed7fda32bab"
       Hint: Subtitle
       Value: 
@@ -44,6 +54,9 @@ Languages:
     - ID: "1f82a687-0683-426f-b12a-4b2100a6a481"
       Hint: Title
       Value: Nous avons des réponses
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260415T011336Z
     - ID: "2fbad11a-8129-4c7e-aacc-6973619327a1"
       Hint: Eyebrow
       Value: 
@@ -56,9 +69,16 @@ Languages:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "16426e42-039a-46b0-a1e6-7057b9614445"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\NCmpg1NJNoisu0v2Hkl2W4WbpXbnkjY3
     - ID: "cc0cb595-ce5c-413e-b413-3a7176347f28"
       Hint: Text
       Value: <p>Que vous soyez novice en gestion de vos finances ou un expert chevronné, notre section FAQ complète est conçue pour vous fournir des réponses rapides et claires à toutes vos questions financières.</p>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260415T011336Z
     - ID: "e4f11fe1-3b24-42e4-8cea-9ed7fda32bab"
       Hint: Subtitle
       Value: 
@@ -69,6 +89,9 @@ Languages:
     - ID: "1f82a687-0683-426f-b12a-4b2100a6a481"
       Hint: Title
       Value: 私たちの答え
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260415T011337Z
     - ID: "2fbad11a-8129-4c7e-aacc-6973619327a1"
       Hint: Eyebrow
       Value: 
@@ -81,9 +104,16 @@ Languages:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "b8ca3c09-86e1-4e89-826c-78c7825c8e04"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\NCmpg1NJNoisu0v2Hkl2W4WbpXbnkjY3
     - ID: "cc0cb595-ce5c-413e-b413-3a7176347f28"
       Hint: Text
       Value: <p>財務管理の初心者からベテランまで、財務に関するあらゆるご質問に迅速かつ明快にお答えするために、総合的なFAQセクションをご用意しました。</p>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260415T011337Z
     - ID: "e4f11fe1-3b24-42e4-8cea-9ed7fda32bab"
       Hint: Subtitle
       Value: 

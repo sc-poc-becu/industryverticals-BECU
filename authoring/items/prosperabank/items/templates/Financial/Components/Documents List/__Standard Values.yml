@@ -35,6 +35,9 @@ Languages:
       Hint: Link3
       Value: |
         <link text="Information Regarding Processing Personal Data of DSK Bank Shareholders" linktype="anchor" url="shareholders" anchor="shareholders" title="" class="" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260415T011211Z
     - ID: "67fdca76-8a62-4424-a499-236787bd226c"
       Hint: Subtitle2
       Value: PDF file
@@ -58,6 +61,10 @@ Languages:
       Hint: Link2
       Value: |
         <link text="Bank Reference - Template" linktype="anchor" url="bank" anchor="bank" title="" class="" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\NCmpg1NJNoisu0v2Hkl2W4WbpXbnkjY3
     - ID: "be4d4a97-19b9-4d92-a28e-38e5b09c2bc4"
       Hint: Link1
       Value: |
@@ -65,3 +72,6 @@ Languages:
     - ID: "c02be9a2-0c6f-47a8-b6c8-2c35f1946946"
       Hint: Title1
       Value: Documents
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260415T011211Z

@@ -27,6 +27,9 @@ Languages:
     - ID: "0a10d09c-166b-464e-99cb-4401b527f3f2"
       Hint: Link2
       Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260415T011335Z
     - ID: "2731b4d6-b866-466a-9731-5161788d662b"
       Hint: SubText2
       Value: 
@@ -54,6 +57,13 @@ Languages:
     - ID: "a3a36b2d-a20b-4344-9f1d-ad867cb99aa4"
       Hint: SubText3
       Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\NCmpg1NJNoisu0v2Hkl2W4WbpXbnkjY3
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260415T011335Z
 - Language: "fr-CA"
   Versions:
   - Version: 1
@@ -61,6 +71,9 @@ Languages:
     - ID: "0a10d09c-166b-464e-99cb-4401b527f3f2"
       Hint: Link2
       Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260415T011335Z
     - ID: "2731b4d6-b866-466a-9731-5161788d662b"
       Hint: SubText2
       Value: 
@@ -88,6 +101,13 @@ Languages:
     - ID: "a3a36b2d-a20b-4344-9f1d-ad867cb99aa4"
       Hint: SubText3
       Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\NCmpg1NJNoisu0v2Hkl2W4WbpXbnkjY3
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260415T011335Z
 - Language: "ja-JP"
   Versions:
   - Version: 1
@@ -95,6 +115,9 @@ Languages:
     - ID: "0a10d09c-166b-464e-99cb-4401b527f3f2"
       Hint: Link2
       Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260415T011335Z
     - ID: "2731b4d6-b866-466a-9731-5161788d662b"
       Hint: SubText2
       Value: 
@@ -122,3 +145,10 @@ Languages:
     - ID: "a3a36b2d-a20b-4344-9f1d-ad867cb99aa4"
       Hint: SubText3
       Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\NCmpg1NJNoisu0v2Hkl2W4WbpXbnkjY3
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260415T011335Z

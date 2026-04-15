@@ -137,6 +137,9 @@ Languages:
         <p>Réduire l'écart de richesse est non seulement une obligation morale, mais aussi une nécessité économique pour construire une société plus juste et durable. En abordant les inégalités systémiques, en autonomisant les individus et les communautés, et en promouvant la diversité et l'inclusion, nous pouvons travailler ensemble pour créer un avenir où chacun a la possibilité de prospérer, quelle que soit son origine ou ses circonstances.</p>
         
         <p><em>Rejoignez-nous dans notre engagement à réduire l'écart de richesse et à bâtir un monde plus équitable pour les générations à venir.</em></p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260415T011308Z
     - ID: "3e700dce-26eb-4bf0-990f-9d9fe555990d"
       Hint: Excerpt
       Value: "Explorez les complexités de l'écart de richesse et découvrez des mesures concrètes pour un avenir plus équitable. Engagez-vous avec nous à réduire cet écart et à construire un monde où chacun a la possibilité de prospérer."
@@ -146,6 +149,13 @@ Languages:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "20ba4985-f42d-4466-9486-96ac10d80a7c"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\NCmpg1NJNoisu0v2Hkl2W4WbpXbnkjY3
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260415T011308Z
     - ID: "e81c4912-a4d2-4466-842c-02f0b2c9dc42"
       Hint: Title
       Value: Réduire l'écart de richesse
@@ -182,6 +192,9 @@ Languages:
         
         <p><em>富の格差を解消し、次世代に向けてより公平な世界を築くという私たちの取り組みにぜひご参加ください。</em></p>
         
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260415T011308Z
     - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
       Hint: __Workflow state
       Value: "{13D6CCE7-A6C3-4EE1-A1D9-8A8E34225ED7}"
@@ -194,6 +207,13 @@ Languages:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "d1cc82f8-bbc6-4ca9-be1a-3fe85f434fdb"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\NCmpg1NJNoisu0v2Hkl2W4WbpXbnkjY3
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260415T011308Z
     - ID: "e81c4912-a4d2-4466-842c-02f0b2c9dc42"
       Hint: Title
       Value: 貧富の格差を埋める

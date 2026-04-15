@@ -10,7 +10,7 @@ SharedFields:
     <image mediaid="{B32B8DF3-CAA6-409F-A0CB-2E16B40088C3}" />
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "1544e02b-5164-445e-9f32-2f5c4a82ff38"
+  Value: "987aaa2f-5c9f-4767-8399-0551f508dd2d"
 Languages:
 - Language: en
   Fields:
@@ -102,11 +102,18 @@ Languages:
               s:ph="/headless-main/column-1-2/container-6" />
             <r
               uid="{405E5482-3EB9-4E02-943A-5878AA365712}"
-              p:after="*[1=2]"
+              p:after="r[@uid='{3C88AA1C-8623-446A-ACD6-8E245552EBC0}']"
               s:ds="local:/Data/Text 5"
               s:id="{9C6D53E3-FE57-4638-AF7B-6D68304C7A94}"
               s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7B28195CAE-07A4-40F2-98DA-609BDCD53B01%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=9"
               s:ph="/headless-main/column-1-2/container-7" />
+            <r
+              uid="{145A074B-44EF-4C93-B5EC-DE214C48BC5D}"
+              p:after="*[1=2]"
+              s:ds="local:/Data/Image 2"
+              s:id="{AB2EDBA0-3960-4F12-B765-579DC231894A}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D%7C%7BB86D9885-E5AE-4A8A-847C-D231A94408AD%7D&amp;FieldNames=%7B406736F9-F24E-4FE6-9CF0-7B9E4587B709%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=13"
+              s:ph="/headless-main/promo-cta-0-1" />
           </d>
         </r>
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
@@ -125,7 +132,7 @@ Languages:
         sitecore\allen.blanton@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "44dab014-1b1d-467e-9367-d37818c6fe64"
+      Value: "9fccd204-7c61-4a86-8256-7568c43aef7a"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
@@ -135,4 +142,4 @@ Languages:
       Value: New page
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260414T234732Z
+      Value: 20260415T021811Z

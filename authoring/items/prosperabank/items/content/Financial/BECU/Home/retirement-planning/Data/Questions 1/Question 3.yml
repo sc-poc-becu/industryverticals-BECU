@@ -13,12 +13,22 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260415T011357Z
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "97875d18-45d5-4205-a95e-61952a79a924"
     - ID: "93ba0221-aa2a-4a04-b8f6-39c2ab65c694"
       Hint: Question
       Value: "How often should I evaluate my retirement plan?"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\NCmpg1NJNoisu0v2Hkl2W4WbpXbnkjY3
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260415T011357Z
     - ID: "ef205dfd-6af2-4514-b694-77efa748f951"
       Hint: Answer
       Value: You will have the opportunity to speak with a dedicated retirement specialist each year to ensure you're on track for a long and happy retirement.
@@ -26,12 +36,22 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260415T011357Z
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "7606c699-b9da-42dc-9b69-39faf7e96559"
     - ID: "93ba0221-aa2a-4a04-b8f6-39c2ab65c694"
       Hint: Question
       Value: "À quelle fréquence devrais-je évaluer mon plan de retraite ?"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\NCmpg1NJNoisu0v2Hkl2W4WbpXbnkjY3
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260415T011357Z
     - ID: "ef205dfd-6af2-4514-b694-77efa748f951"
       Hint: Answer
       Value: Vous aurez l'opportunité de parler avec un spécialiste de la retraite dédié chaque année pour vous assurer que vous êtes sur la bonne voie pour une retraite longue et heureuse.
@@ -39,12 +59,22 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260415T011357Z
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "ebc0c784-6579-4c99-b2bf-dc322a133128"
     - ID: "93ba0221-aa2a-4a04-b8f6-39c2ab65c694"
       Hint: Question
       Value: どのくらいの頻度で退職プランを評価すべきでしょうか？
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\NCmpg1NJNoisu0v2Hkl2W4WbpXbnkjY3
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260415T011357Z
     - ID: "ef205dfd-6af2-4514-b694-77efa748f951"
       Hint: Answer
       Value: リタイアメント・スペシャリストと毎年話す機会があり、長く幸せなリタイアメント生活を送ることができます。

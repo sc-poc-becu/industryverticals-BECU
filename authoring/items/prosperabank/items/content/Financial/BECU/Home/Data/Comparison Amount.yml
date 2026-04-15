@@ -21,12 +21,22 @@ Languages:
     - ID: "22ea3b6c-7d16-47dc-b1d7-9e6686c6bd9b"
       Hint: Amount2
       Value: 80000
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260415T011259Z
     - ID: "55199a29-334d-41c9-b133-7163c9e82a7c"
       Hint: Currency2
       Value: eur
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "4e98b883-c33c-4182-9b7b-2a0898f2cb61"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\NCmpg1NJNoisu0v2Hkl2W4WbpXbnkjY3
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260415T011259Z
     - ID: "ef3b1e0a-490d-4340-8ebc-5612d6be5e74"
       Hint: Currency1
       Value: eur
@@ -40,6 +50,9 @@ Languages:
     - ID: "22ea3b6c-7d16-47dc-b1d7-9e6686c6bd9b"
       Hint: Amount2
       Value: 80000
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260415T011259Z
     - ID: "55199a29-334d-41c9-b133-7163c9e82a7c"
       Hint: Currency2
       Value: eur
@@ -49,6 +62,13 @@ Languages:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "6e22577b-ad8c-4014-9da1-feeb2c7db3c0"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\NCmpg1NJNoisu0v2Hkl2W4WbpXbnkjY3
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260415T011259Z
     - ID: "ef3b1e0a-490d-4340-8ebc-5612d6be5e74"
       Hint: Currency1
       Value: eur
@@ -62,6 +82,9 @@ Languages:
     - ID: "22ea3b6c-7d16-47dc-b1d7-9e6686c6bd9b"
       Hint: Amount2
       Value: 80000
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260415T011259Z
     - ID: "55199a29-334d-41c9-b133-7163c9e82a7c"
       Hint: Currency2
       Value: eur
@@ -71,9 +94,16 @@ Languages:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "86986086-b4cc-4d7f-9dd2-cd774fc3991f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\NCmpg1NJNoisu0v2Hkl2W4WbpXbnkjY3
     - ID: "bd2c7af4-8f8f-4518-8d5d-2c1006bce654"
       Hint: Subtitle2
       Value: 最大
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260415T011259Z
     - ID: "ef3b1e0a-490d-4340-8ebc-5612d6be5e74"
       Hint: Currency1
       Value: eur

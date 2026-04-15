@@ -16,6 +16,9 @@ Languages:
     - ID: "1e25a144-5899-4c7e-b0b8-d7209cd76d27"
       Hint: Text
       Value: <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.</p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260415T011212Z
     - ID: "27b909fd-63d0-4f13-b449-fa185536d493"
       Hint: Tagline
       Value: Dolor amet
@@ -30,6 +33,13 @@ Languages:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "19aeb62f-4068-4e20-968b-0aa13b0bfb0b"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\NCmpg1NJNoisu0v2Hkl2W4WbpXbnkjY3
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260415T011212Z
     - ID: "dcd33f8a-fed4-4740-8729-e11d3c5eee64"
       Hint: Cta2
       Value: |
@@ -44,6 +54,9 @@ Languages:
     - ID: "1e25a144-5899-4c7e-b0b8-d7209cd76d27"
       Hint: Text
       Value: <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.</p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260415T011212Z
     - ID: "5485235d-569d-44d5-aa06-7df61f596638"
       Hint: Cta1
       Value: |
@@ -51,6 +64,13 @@ Languages:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "098585dd-31d0-4f64-aed2-9deaef046038"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\NCmpg1NJNoisu0v2Hkl2W4WbpXbnkjY3
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260415T011212Z
     - ID: "e91adc46-b038-4092-bc72-afd5ec708db5"
       Hint: Title
       Value: Lorem ipsum dolor sit amet

@@ -142,6 +142,9 @@ Languages:
         <p>La retraite est une étape passionnante qui offre l'opportunité de vivre de nouvelles expériences et de profiter des fruits de votre travail. En prenant le temps de planifier et de vous préparer à la retraite, vous pouvez assurer une transition en douceur et vous préparer à un avenir épanouissant et financièrement sécurisé. N'oubliez pas de rester informé, de rester engagé et de tirer le meilleur parti de chaque moment alors que vous entamez ce nouveau chapitre de votre vie.</p>
         
         <p><strong><em>Êtes-vous prêt à commencer votre parcours de retraite ? Contactez-nous dès aujourd'hui pour en savoir plus sur la façon dont nous pouvons vous aider à planifier une retraite réussie.</em></strong></p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260415T011309Z
     - ID: "3e700dce-26eb-4bf0-990f-9d9fe555990d"
       Hint: Excerpt
       Value: Que vous commenciez tout juste à planifier votre retraite ou que vous veniez de prendre votre retraite, voici quelques conseils essentiels pour vous aider à naviguer cette transition avec confiance et tranquillité d'esprit.
@@ -151,6 +154,13 @@ Languages:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "6fb5707b-a1ee-493b-a498-50be7054279d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\NCmpg1NJNoisu0v2Hkl2W4WbpXbnkjY3
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260415T011309Z
     - ID: "e81c4912-a4d2-4466-842c-02f0b2c9dc42"
       Hint: Title
       Value: "Commencer votre parcours de retraite : 5 conseils pour les nouveaux retraités"
@@ -187,6 +197,9 @@ Languages:
         
         <p><strong><em>退職の旅を始める準備はできましたか？成功する退職計画をお手伝いするために、ぜひお問い合わせください。</em></strong></p>
         
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260415T011309Z
     - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
       Hint: __Workflow state
       Value: "{13D6CCE7-A6C3-4EE1-A1D9-8A8E34225ED7}"
@@ -199,6 +212,13 @@ Languages:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "531ed9b3-5913-4526-bcc7-1dcb264b1285"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\NCmpg1NJNoisu0v2Hkl2W4WbpXbnkjY3
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260415T011309Z
     - ID: "e81c4912-a4d2-4466-842c-02f0b2c9dc42"
       Hint: Title
       Value: 引退後の旅立ち 新規退職者のための5つのヒント

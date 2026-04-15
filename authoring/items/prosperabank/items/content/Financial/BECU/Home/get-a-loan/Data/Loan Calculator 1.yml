@@ -11,6 +11,9 @@ Languages:
     - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
       Hint: __Lock
       Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260415T011333Z
     - ID: "2b5affa6-eba2-40df-82fb-76f12d38b66e"
       Hint: MaxTerm
       Value: 120
@@ -35,6 +38,13 @@ Languages:
     - ID: "b3aa7233-e4a9-4a10-9a00-8b4c48219a5a"
       Hint: MinAmount
       Value: 1000
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\NCmpg1NJNoisu0v2Hkl2W4WbpXbnkjY3
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260415T011333Z
     - ID: "fb933aba-b552-421b-82ba-664282b1a5bf"
       Hint: InterestRate
       Value: 6.78
@@ -42,6 +52,9 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260415T011333Z
     - ID: "2b5affa6-eba2-40df-82fb-76f12d38b66e"
       Hint: MaxTerm
       Value: 120
@@ -66,6 +79,13 @@ Languages:
     - ID: "b3aa7233-e4a9-4a10-9a00-8b4c48219a5a"
       Hint: MinAmount
       Value: 1000
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\NCmpg1NJNoisu0v2Hkl2W4WbpXbnkjY3
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260415T011333Z
     - ID: "fb933aba-b552-421b-82ba-664282b1a5bf"
       Hint: InterestRate
       Value: 6.78
@@ -73,6 +93,9 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260415T011333Z
     - ID: "2b5affa6-eba2-40df-82fb-76f12d38b66e"
       Hint: MaxTerm
       Value: 120
@@ -97,6 +120,13 @@ Languages:
     - ID: "b3aa7233-e4a9-4a10-9a00-8b4c48219a5a"
       Hint: MinAmount
       Value: 1000
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\NCmpg1NJNoisu0v2Hkl2W4WbpXbnkjY3
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260415T011333Z
     - ID: "fb933aba-b552-421b-82ba-664282b1a5bf"
       Hint: InterestRate
       Value: 6.78

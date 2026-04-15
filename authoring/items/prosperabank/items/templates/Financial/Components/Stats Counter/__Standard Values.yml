@@ -23,6 +23,9 @@ Languages:
       Hint: Image2
       Value: |
         <image mediaid="{3733A04C-D1B9-4AE4-90A1-29C773B1198F}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260415T011212Z
     - ID: "375bdefa-68a4-4da9-aaa9-fe47bb5fb441"
       Hint: Value1
       Value: 42
@@ -41,12 +44,19 @@ Languages:
     - ID: "a5f0268c-d355-4872-9411-c869ad9a1267"
       Hint: Caption3
       Value: Projects complete
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\NCmpg1NJNoisu0v2Hkl2W4WbpXbnkjY3
     - ID: "cc0eff80-a988-4cca-9dbc-5d0688781148"
       Hint: Value2
       Value: 73
     - ID: "d12ed4b9-522e-42b3-b77c-ecd0e59e084f"
       Hint: Symbol3
       Value: +
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260415T011212Z
     - ID: "edf8ebc1-a19b-4a1b-b707-c4434c7e17bc"
       Hint: Symbol2
       Value: +
@@ -60,6 +70,16 @@ Languages:
     - ID: "239a7f68-3d70-4c7a-81c3-c280e5283e02"
       Hint: Image2
       Value: Amount
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260415T011212Z
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "679fdbac-d923-49e2-8d45-d64f658b5b83"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\NCmpg1NJNoisu0v2Hkl2W4WbpXbnkjY3
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260415T011212Z

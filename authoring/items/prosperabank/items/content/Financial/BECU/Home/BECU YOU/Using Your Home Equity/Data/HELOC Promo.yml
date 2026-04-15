@@ -46,17 +46,18 @@ Languages:
         sitecore\allen.blanton@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "a9e8c753-18de-45a9-83a9-30d609731898"
+      Value: "83d72c81-e462-406d-b2a1-5b143711fb25"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\allen.blanton@sitecore.com
+        sitecore\uwsherm+becupoc@gmail.com
     - ID: "cc0cb595-ce5c-413e-b413-3a7176347f28"
       Hint: Text
-      Value: <p>Tap your home's equity to fund what matters most &mdash; from renovations to new beginnings.</p>
+      Value: |
+        <div class="ck-content"><p>Tap your home's equity to fund what matters most — from renovations to new beginnings. Test Update.</p></div>
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260210T185409Z
+      Value: 20260415T172254Z
     - ID: "e4f11fe1-3b24-42e4-8cea-9ed7fda32bab"
       Hint: Subtitle
       Value: 

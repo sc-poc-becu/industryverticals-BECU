@@ -12,6 +12,9 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260415T011215Z
     - ID: "347076d0-eb36-489e-9452-b0d48ee2641a"
       Hint: Rating
       Value: 5
@@ -24,6 +27,13 @@ Languages:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "54831775-0cbc-4ae0-9310-0624f33243dd"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\NCmpg1NJNoisu0v2Hkl2W4WbpXbnkjY3
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260415T011215Z
     - ID: "f89cca04-3f6d-4d2d-8dc2-10dcf0981d8b"
       Hint: AuthorImage
       Value: |
@@ -35,6 +45,9 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260415T011215Z
     - ID: "347076d0-eb36-489e-9452-b0d48ee2641a"
       Hint: Rating
       Value: Lorem ipsum dolor sit amet
@@ -44,3 +57,10 @@ Languages:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "50e1a745-fbe8-493b-8633-3ee2880d074c"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\NCmpg1NJNoisu0v2Hkl2W4WbpXbnkjY3
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260415T011215Z

@@ -13,11 +13,24 @@ SharedFields:
     {52733592-6F5D-4FB4-8003-9B8223C5BC76}
     {69E8A90F-59CA-4638-B53E-BDCE65835230}
     {1A375FAC-6CC1-4A5A-A159-9BC6DBC66B80}
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "983dd1d0-ed94-4827-b60f-e64b0398f4fe"
 Languages:
 - Language: en
   Versions:
   - Version: 1
     Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260415T011348Z
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "375e2d94-e931-4d57-8ccb-114ac13e765a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\NCmpg1NJNoisu0v2Hkl2W4WbpXbnkjY3
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260415T011348Z

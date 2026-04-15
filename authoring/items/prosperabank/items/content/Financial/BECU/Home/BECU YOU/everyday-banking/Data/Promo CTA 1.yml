@@ -19,6 +19,9 @@ Languages:
     - ID: "1f82a687-0683-426f-b12a-4b2100a6a481"
       Hint: Title
       Value: A checking account that works for you
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260415T011401Z
     - ID: "2fbad11a-8129-4c7e-aacc-6973619327a1"
       Hint: Eyebrow
       Value: 
@@ -31,9 +34,16 @@ Languages:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "3903e66b-4718-4dba-8d32-93d7cdd4117c"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\NCmpg1NJNoisu0v2Hkl2W4WbpXbnkjY3
     - ID: "cc0cb595-ce5c-413e-b413-3a7176347f28"
       Hint: Text
       Value: "<p>No fees, no fuss - a chequing account with modern services to grow with your finances.</p>"
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260415T011401Z
     - ID: "e4f11fe1-3b24-42e4-8cea-9ed7fda32bab"
       Hint: Subtitle
       Value: 
@@ -44,6 +54,9 @@ Languages:
     - ID: "1f82a687-0683-426f-b12a-4b2100a6a481"
       Hint: Title
       Value: Un compte chèque qui fonctionne pour vous
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260415T011401Z
     - ID: "2fbad11a-8129-4c7e-aacc-6973619327a1"
       Hint: Eyebrow
       Value: 
@@ -56,9 +69,16 @@ Languages:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "c322292e-3569-4eaf-8ef2-bd15f4969521"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\NCmpg1NJNoisu0v2Hkl2W4WbpXbnkjY3
     - ID: "cc0cb595-ce5c-413e-b413-3a7176347f28"
       Hint: Text
       Value: "<p>Pas de frais, pas de tracas - un compte courant avec des services modernes pour accompagner la croissance de vos finances.</p>"
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260415T011401Z
     - ID: "e4f11fe1-3b24-42e4-8cea-9ed7fda32bab"
       Hint: Subtitle
       Value: 
@@ -69,6 +89,9 @@ Languages:
     - ID: "1f82a687-0683-426f-b12a-4b2100a6a481"
       Hint: Title
       Value: あなたに合った当座預金口座
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260415T011401Z
     - ID: "2fbad11a-8129-4c7e-aacc-6973619327a1"
       Hint: Eyebrow
       Value: 
@@ -81,9 +104,16 @@ Languages:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "16d51ca5-e00d-4289-a25c-840927eb4af8"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\NCmpg1NJNoisu0v2Hkl2W4WbpXbnkjY3
     - ID: "cc0cb595-ce5c-413e-b413-3a7176347f28"
       Hint: Text
       Value: <p>手数料も手間もかかりません。最新のサービスを備えた当座預金口座は、お客様の財務状況に合わせて成長します。</p>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260415T011401Z
     - ID: "e4f11fe1-3b24-42e4-8cea-9ed7fda32bab"
       Hint: Subtitle
       Value: 

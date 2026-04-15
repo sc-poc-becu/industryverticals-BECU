@@ -8,7 +8,6 @@ SharedFields:
   Hint: Renderings
   Value: |
     {9C6D53E3-FE57-4638-AF7B-6D68304C7A94}
-    {3836D951-BB14-43AC-9231-649B7F245DC5}
     {8094185B-4C72-40C8-B005-C6ED91708754}
     {F9905F68-21E8-4C6F-8B89-56BB99020D31}
     {CCC3A815-5DE9-4529-BAD5-874548667D66}
@@ -27,7 +26,7 @@ SharedFields:
   Value: 500
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "b2654aa5-dd98-4bf3-9689-7ca8ff6c4fd1"
+  Value: "549b0cbd-7e27-42fe-a360-776078ef5647"
 - ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
   Hint: __Originator
   Value: "{EDD5B21F-2BD2-4290-81A2-68428363D312}"
@@ -45,11 +44,11 @@ Languages:
         sitecore\michael.sherman@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "004f2a2d-a75d-42ae-84ac-3adfe679b82e"
+      Value: "b2322b1c-9672-4d7e-8be3-1cc29b309e4c"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\michael.sherman@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260414T233053Z
+      Value: 20260415T022709Z

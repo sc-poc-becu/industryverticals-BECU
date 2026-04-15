@@ -13,6 +13,9 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260415T011213Z
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "098585dd-31d0-4f64-aed2-9deaef046038"
@@ -23,6 +26,13 @@ Languages:
     - ID: "a3cbbb91-442e-441c-a6e2-5896c19d8711"
       Hint: Text
       Value: <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.</p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\NCmpg1NJNoisu0v2Hkl2W4WbpXbnkjY3
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260415T011213Z
     - ID: "f44602f9-172c-4987-aaf6-1fb2ab0f75a1"
       Hint: Title
       Value: Lorem ipsum dolor sit amet

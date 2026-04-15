@@ -22,6 +22,9 @@ Languages:
     - ID: "1f82a687-0683-426f-b12a-4b2100a6a481"
       Hint: Title
       Value: Make the most of your unused retirement account room
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260415T011328Z
     - ID: "2fbad11a-8129-4c7e-aacc-6973619327a1"
       Hint: Eyebrow
       Value: 
@@ -34,9 +37,16 @@ Languages:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "c4b570ca-1d03-40dc-a7f9-1075f9f77f1c"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\NCmpg1NJNoisu0v2Hkl2W4WbpXbnkjY3
     - ID: "cc0cb595-ce5c-413e-b413-3a7176347f28"
       Hint: Text
       Value: "<p>Make sure to benefit from retirement contributions while you can!</p>"
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260415T011328Z
     - ID: "e4f11fe1-3b24-42e4-8cea-9ed7fda32bab"
       Hint: Subtitle
       Value: 
@@ -47,6 +57,9 @@ Languages:
     - ID: "1f82a687-0683-426f-b12a-4b2100a6a481"
       Hint: Title
       Value: "Profitez au maximum de votre espace inutilisé dans votre compte d'épargne-retraite"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260415T011328Z
     - ID: "2fbad11a-8129-4c7e-aacc-6973619327a1"
       Hint: Eyebrow
       Value: 
@@ -59,9 +72,16 @@ Languages:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "1b6e6409-c801-44ad-bacc-4ae564ec79f9"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\NCmpg1NJNoisu0v2Hkl2W4WbpXbnkjY3
     - ID: "cc0cb595-ce5c-413e-b413-3a7176347f28"
       Hint: Text
       Value: "<p>Assurez-vous de profiter des contributions à la retraite tant que vous le pouvez !</p>"
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260415T011328Z
     - ID: "e4f11fe1-3b24-42e4-8cea-9ed7fda32bab"
       Hint: Subtitle
       Value: 
@@ -72,6 +92,9 @@ Languages:
     - ID: "1f82a687-0683-426f-b12a-4b2100a6a481"
       Hint: Title
       Value: 未使用の退職金口座を最大限に活用する
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260415T011328Z
     - ID: "2fbad11a-8129-4c7e-aacc-6973619327a1"
       Hint: Eyebrow
       Value: 
@@ -84,9 +107,16 @@ Languages:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "7ea78ac5-5aa7-4e6c-97e2-56b52b33875e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\NCmpg1NJNoisu0v2Hkl2W4WbpXbnkjY3
     - ID: "cc0cb595-ce5c-413e-b413-3a7176347f28"
       Hint: Text
       Value: <p>今のうちに退職金の恩恵にあずかろう！</p>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260415T011328Z
     - ID: "e4f11fe1-3b24-42e4-8cea-9ed7fda32bab"
       Hint: Subtitle
       Value: 

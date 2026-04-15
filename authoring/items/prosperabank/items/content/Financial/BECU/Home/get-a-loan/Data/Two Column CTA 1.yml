@@ -20,6 +20,9 @@ Languages:
     - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
       Hint: __Lock
       Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260415T011333Z
     - ID: "301fab64-5268-445d-8380-6b43861bb434"
       Hint: Link1
       Value: 
@@ -38,6 +41,13 @@ Languages:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "69de062d-583f-47c2-b80d-8caa54b399e2"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\NCmpg1NJNoisu0v2Hkl2W4WbpXbnkjY3
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260415T011333Z
     - ID: "eeb59bf3-72d2-4e49-9a37-3902b7a236a9"
       Hint: Text2
       Value: 
@@ -45,6 +55,9 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260415T011333Z
     - ID: "301fab64-5268-445d-8380-6b43861bb434"
       Hint: Link1
       Value: 
@@ -63,6 +76,13 @@ Languages:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "aec4f599-a070-4003-bd47-ce25dd85cecf"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\NCmpg1NJNoisu0v2Hkl2W4WbpXbnkjY3
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260415T011333Z
     - ID: "eeb59bf3-72d2-4e49-9a37-3902b7a236a9"
       Hint: Text2
       Value: 
@@ -70,6 +90,9 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260415T011333Z
     - ID: "301fab64-5268-445d-8380-6b43861bb434"
       Hint: Link1
       Value: 
@@ -88,6 +111,13 @@ Languages:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "42944f80-347a-4f18-820f-82892fa1b7b4"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\NCmpg1NJNoisu0v2Hkl2W4WbpXbnkjY3
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260415T011333Z
     - ID: "eeb59bf3-72d2-4e49-9a37-3902b7a236a9"
       Hint: Text2
       Value: 

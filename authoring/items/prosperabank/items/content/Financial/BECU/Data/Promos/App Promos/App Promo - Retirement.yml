@@ -33,9 +33,19 @@ Languages:
     - ID: "1f0455dc-9254-4487-b94d-6c66f103e7bf"
       Hint: Title
       Value: "Stick to your retirement plan with our easy-to-use mobile companion app"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260415T011340Z
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "abf4fb28-9963-48c7-a2a9-30bb8b0c4fad"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\NCmpg1NJNoisu0v2Hkl2W4WbpXbnkjY3
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260415T011340Z
 - Language: "fr-CA"
   Versions:
   - Version: 1
@@ -57,9 +67,19 @@ Languages:
     - ID: "1f0455dc-9254-4487-b94d-6c66f103e7bf"
       Hint: Title
       Value: Respectez votre plan de retraite avec notre application mobile facile à utiliser.
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260415T011340Z
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "b00ece5a-382e-48e0-81db-37756e4dc996"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\NCmpg1NJNoisu0v2Hkl2W4WbpXbnkjY3
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260415T011340Z
 - Language: "ja-JP"
   Versions:
   - Version: 1
@@ -81,6 +101,16 @@ Languages:
     - ID: "1f0455dc-9254-4487-b94d-6c66f103e7bf"
       Hint: Title
       Value: 使いやすいモバイルコンパニオンアプリでリタイアメントプランに忠実な生活を
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260415T011340Z
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "684ca426-7061-46bc-ac76-3b028b08b9f1"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\NCmpg1NJNoisu0v2Hkl2W4WbpXbnkjY3
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260415T011340Z

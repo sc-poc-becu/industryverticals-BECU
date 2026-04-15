@@ -89,6 +89,9 @@ Languages:
       Hint: Text1
       Value: |
         <div class="ck-content"><p><a class="ck-link_selected" href="~/link.aspx?_id=312D7889330C49E69A8B6C97A06268E0&amp;_z=z">À propos de nous</a></p><p><a href="~/link.aspx?_id=5D60619D833B44F3AA73CA51FE3A0F3C&amp;_z=z">FAQs</a></p><p><a href="~/link.aspx?_id=38E1734C163E47E3B51FA5EE2AB85BA6&amp;_z=z">Service à la clientèle</a></p></div>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260415T011410Z
     - ID: "342fb66b-0e4b-419d-ba86-2355e33ee1bf"
       Hint: Title1
       Value: "PLAY! financier"
@@ -118,12 +121,19 @@ Languages:
     - ID: "9bab16e3-3b9d-425e-8adc-06c0838f7706"
       Hint: SocialsTitle
       Value: Partagez
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\NCmpg1NJNoisu0v2Hkl2W4WbpXbnkjY3
     - ID: "ca370d33-63e1-4e1b-986d-fe82ae23027c"
       Hint: Text2
       Value: |
         <p><a href="~/link.aspx?_id=406FD98C50E44F3090E46245498A2D10&amp;_z=z">Personnel</a></p>
         <p><a href="~/link.aspx?_id=AF81673AE74540B28EA734E0589693A7&amp;_z=z">Petites entreprises</a></p>
         <p><a href="~/link.aspx?_id=524F5CD24FB9437DB733CF5861B8CED3&amp;_z=z">Planification de la retraite</a></p>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260415T011410Z
     - ID: "e71e7e6c-29a7-4a9a-a7f8-a4e29609cb64"
       Hint: Title2
       Value: Services
@@ -141,6 +151,9 @@ Languages:
       Hint: Text1
       Value: |
         <div class="ck-content"><p><a class="ck-link_selected" href="~/link.aspx?_id=312D7889330C49E69A8B6C97A06268E0&amp;_z=z">会社概要</a></p><p><a href="~/link.aspx?_id=5D60619D833B44F3AA73CA51FE3A0F3C&amp;_z=z">よくある質問と回答</a></p><p><a href="~/link.aspx?_id=38E1734C163E47E3B51FA5EE2AB85BA6&amp;_z=z">カスタマーサポート</a></p></div>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260415T011410Z
     - ID: "342fb66b-0e4b-419d-ba86-2355e33ee1bf"
       Hint: Title1
       Value: "PLAY! Finance"
@@ -167,12 +180,19 @@ Languages:
         <a href="~/link.aspx?_id=D26AF0F15E5441F0B026C96D4D2BEEA3&amp;_z=z">ローンを組む</a>&nbsp;</p>
         <p> <a href="~/link.aspx?_id=0B45C71D61AE44F39F7D6C88185F0B15&amp;_z=z">記事</a></p>
         <p> <a href="~/link.aspx?_id=8C2D676591BE4BD8A0B34F81256E75A6&amp;_z=z">著者</a></p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\NCmpg1NJNoisu0v2Hkl2W4WbpXbnkjY3
     - ID: "ca370d33-63e1-4e1b-986d-fe82ae23027c"
       Hint: Text2
       Value: |
         <p><a href="~/link.aspx?_id=406FD98C50E44F3090E46245498A2D10&amp;_z=z">個人のお客さま</a></p>
         <p><a href="~/link.aspx?_id=AF81673AE74540B28EA734E0589693A7&amp;_z=z">企業のお客様</a></p>
         <p><a href="~/link.aspx?_id=524F5CD24FB9437DB733CF5861B8CED3&amp;_z=z">年金運用プラン</a></p>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260415T011410Z
     - ID: "e71e7e6c-29a7-4a9a-a7f8-a4e29609cb64"
       Hint: Title2
       Value: サービス
