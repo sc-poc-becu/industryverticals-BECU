@@ -8,10 +8,13 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
     - ID: "0b7c2b1b-995e-4727-b060-988c60fbae9a"
       Hint: Text
       Value: |
-        <span style="color: #4d5f69; background-color: #f4f5f5;">During the HELOC intro period your minimum payment amount may be less. During the intro period and after, your monthly payment will equal the amount of accrued interest, subject to the lesser of $100 or your outstanding balance. Because the minimum monthly payment during the draw period is interest only, your principal balance may not be reduced. At the end of the draw period, your monthly payment will increase and equal the amount of principal and interest necessary to pay off the loan balance by the end of the 180-month repayment period. Your payments during both the draw and repayment periods will not include amounts due for property taxes and insurance. The APRs for BECU's HELOCs are variable and are based on the highest Prime Rate as published in the Wall Street Journal on the last day of the previous month plus an applicable margin. Current HELOC rates range from 6.99% APR &ndash; 9.84% APR as of 4/10/2026 and are subject to change. The maximum APR that can apply to BECU's HELOCs is 18%. APRs do not include costs other than interest.</span>
+        <div class="ck-content"><p><span style="color:#4d5f69;">During the HELOC intro period your minimum payment amount may be less. During the intro period and after, your monthly payment will equal the amount of accrued interest, subject to the lesser of $100 or your outstanding balance. Because the minimum monthly payment during the draw period is interest only, your principal balance may not be reduced. At the end of the draw period, your monthly payment will increase and equal the amount of principal and interest necessary to pay off the loan balance by the end of the 180-month repayment period. Your payments during both the draw and repayment periods will not include amounts due for property taxes and insurance. The APRs for BECU's HELOCs are variable and are based on the highest Prime Rate as published in the Wall Street Journal on the last day of the previous month plus an applicable margin. Current HELOC rates range from 6.99% APR – 9.84% APR as of 4/10/2026 and are subject to change. The maximum APR that can apply to BECU's HELOCs is 18%. APRs do not include costs other than interest.</span></p></div>
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260413T233915Z
@@ -28,11 +31,11 @@ Languages:
       Value: 2
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "31d9fc87-f011-4cf3-ba3b-0f087ed0eb20"
+      Value: "650d78ab-2bef-49d4-bab8-1bea44bde348"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\michael.sherman@sitecore.com
+        sitecore\allen.blanton@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260413T234004Z
+      Value: 20260414T230853Z

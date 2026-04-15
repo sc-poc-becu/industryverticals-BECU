@@ -1,0 +1,45 @@
+﻿---
+ID: "74c3e4f2-f3d4-4f8c-aeb5-71ed01f22679"
+Parent: "e85c36fa-2f16-47e1-9fdd-1c602a52554a"
+Template: "094dd382-f982-48df-9931-136f44ad07c3"
+Path: /sitecore/content/Financial/BECU/Home/BECU YOU/borrowing/HELOC/Data/Rates
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "1a10fbcd-32ba-40a2-95d9-fe173ae39877"
+      Hint: Rates
+      Value: "{C59A9898-9CE5-4DE0-83F5-06A7757FB2B3}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260414T033142Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\michael.sherman@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\michael.sherman@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "405cf111-6e3d-4f45-a92f-990a32cb0830"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\michael.sherman@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260414T033231Z
+    - ID: "ea03f685-68b5-4a3c-b5aa-18231b98ca19"
+      Hint: Footer
+      Value: |
+        <div class="ck-content"><p><a style="-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);box-sizing:border-box;color:rgb(0, 124, 137);font-family:MuseoSans-500, &quot;Arial Regular&quot;, sans-serif;font-size:16px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration:none;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;" href="https://www.becu.org/-/media/Files/PDF/P-463.pdf?rev=4e4b59b47da1417c9f9490fc955ca64f&amp;sc_lang=en&amp;hash=624B0692D2A4B4BEAD4BF6F8CE13E7EA" target="_blank" title="BECU Consumer Lending Rates &amp; Related Disclosures (PDF) (Opens in a new window)" rel="noopener noreferrer">*See important information about rates, fees and other costs</a></p></div>
+    - ID: "ebe1e2d2-fd25-45be-bb1a-98b0c9edda71"
+      Hint: Header
+      Value: |
+        <div class="ck-content"><h2 class="ratetitle body-copy" style="-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);box-sizing:border-box;color:rgb(25, 40, 56);font-family:MuseoSans-500, &quot;Arial Regular&quot;, sans-serif;font-size:16px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:normal;letter-spacing:normal;line-height:22px;margin:0px 0px 5px;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;">HELOC Rates as Low As¹</h2><h6 class="ratesubhead small-copy clr-gray" style="-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);box-sizing:border-box;color:rgb(77, 95, 105);font-family:MuseoSans-300, &quot;Arial Regular&quot;, sans-serif;font-size:14px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:normal;letter-spacing:normal;line-height:20px;margin:0px 0px 1.5rem;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;">APR Effective 4/10/2026*</h6></div>

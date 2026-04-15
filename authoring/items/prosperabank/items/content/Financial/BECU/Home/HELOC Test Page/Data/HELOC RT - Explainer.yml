@@ -1,0 +1,38 @@
+﻿---
+ID: "cd05c583-1d67-4078-83c1-47c172218256"
+Parent: "8528155b-d449-4e79-8f3d-6e419f652b2a"
+Template: "0a7aa373-5ed1-4e9b-9678-22d3c5faf6df"
+Path: "/sitecore/content/Financial/BECU/Home/HELOC Test Page/Data/HELOC RT - Explainer"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260414T211201Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\allen.blanton@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\allen.blanton@sitecore.com
+    - ID: "729034fc-24f3-40b7-8fa4-fb49d7de20dd"
+      Hint: Text
+      Value: |
+        <div class="ck-content"><h2>What Is a HELOC and How Does It Work?</h2><p>A home equity line of credit is a revolving credit line that lets you borrow against the equity in your home. Somewhat like a credit card, you can draw funds as needed up to your credit limit, repay and borrow again during the draw period.</p><h2>HELOC Features and Benefits</h2><p>HELOCs are great for home improvement projects, debt consolidations and paying ongoing expenses over time. BECU HELOCs offer:</p><ul><li>Low, interest-only payments during 10-year draw period.</li><li>Option to lock in your rate on up to three loan amounts.</li><li>Loans up to $500,000.</li><li>No appraisal cost or annual fee.<sup>2</sup></li><li>Access to funds when you need them.</li></ul><h2>HELOC vs. Home Equity Loan: Key Differences</h2><p>A HELOC lets you borrow from your available credit line over time during the draw period, while a home equity loan provides a one-time lump sum.</p><p>BECU offers HELOCs because they give members flexible access to funds and the freedom to use their home's equity when it matters most.</p><h2>Fixed-Rate Advance: Lock In Part of Your HELOC Payments</h2><p>Looking for more predictability in your payments? Lock in a stable rate on a portion of your new or existing home equity line of credit (HELOC).<sup>3,4</sup></p><ul><li><strong>Rates range from 7.24% to 10.34% APR.</strong></li><li>Fixed payments for easier budgeting.</li><li>Flexible loan amounts and terms (up to 15 years).<sup>4</sup></li></ul><p>Lock in the rate for all or a portion of your home equity line of credit limit for a specific term.<sup>4</sup></p><h2>How Much Can I Borrow With a HELOC?</h2><p>With a HELOC, you could qualify to borrow up to 80% of your home's value with a maximum loan amount of $500,000, minus your current mortgage balance. Qualification depends on your income, credit history, property value and home equity.</p><h3>Draw Period vs. Repayment: What to Expect</h3><p>A BECU HELOC is structured in two phases:</p><h4>Draw Period (10 years):</h4><p>During this time, you can borrow funds as needed — up to your credit limit — and make interest-only payments. You can also place part or all your balance into a Fixed Rate Advance. Your payments on this portion would be principal and interest.</p><h4>Repayment Period (15 years):</h4><p>Once the draw period ends, you'll begin repaying the remaining balance with monthly payments that include both principal and interest.</p><h2>Popular Ways To Use a HELOC</h2><p>Because a HELOC is a revolving credit line, you can use it as needs arise during the draw period. Many members use their line of credit to:</p><ul><li>Fund home renovations or repairs to update or maintain their property.</li><li>Invest in home improvements that may increase value over time.</li><li>Consolidate high-interest debt into one low-rate monthly payment.</li><li>Cover education costs, medical bills or other unexpected expenses.</li></ul><h2>How to Apply for a HELOC</h2><p>Applying for a HELOC is simple. You can submit your application online, by phone or in person at any <a href="https://www.becu.org/locations/all-locations">BECU Neighborhood Financial Center</a>. Existing members can apply from within Online Banking. You'll provide income and details about your home. Your application will be reviewed, and you will be informed of our decision. Learn what to expect during the <a href="https://www.becu.org/loans-and-mortgages/home-loans/home-equity/application-faqs">HELOC application process</a>. Not a BECU member yet? <a href="https://www.becu.org/open-credit-union-account-online">Join BECU and Apply</a>.</p><h2>Contact a BECU Member Consultant</h2><p>Have questions or ready to get started? Our member consultants can walk you through your options, explain the application process, and help you decide if a HELOC may be the right fit for your goals. Drop by a <a href="https://www.becu.org/locations/find-locations">location</a>, or <a href="https://www.becu.org/support/make-an-appointment">schedule a time</a> to talk to a BECU member consultant or give us a call at <a href="tel:844-232-8562">844-BECULOAN</a> (<a href="tel:844-232-8562">844-232-8562</a>).</p></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1764b140-4beb-4ec3-a1a3-83ccea9b8382"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\allen.blanton@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260414T215035Z

@@ -1,0 +1,39 @@
+﻿---
+ID: "39cb0ab7-68df-47d2-b024-8a70b93d33ca"
+Parent: "8b377bb4-0c0b-4877-8716-d90171ad415b"
+Template: "d727b7e7-0659-4de8-aed9-f36f31b93dd8"
+Path: /sitecore/content/Financial/BECU/Home/Sherman New Page/Data/HELOC Disclosures
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260414T211238Z
+    - ID: "4c6d9430-dcb6-4f7f-965a-7ed02ff64433"
+      Hint: Items
+      Value: |
+        {98B08924-D366-423F-B6B5-97757E741B6A}
+        {AA5E1A51-1A75-4AB3-933C-35561FF369F1}
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\allen.blanton@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\allen.blanton@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b257cf6a-8953-4681-a8c2-98a6906e9b0d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\michael.sherman@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260414T230243Z

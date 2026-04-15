@@ -1,0 +1,41 @@
+﻿---
+ID: "2d743f69-b7fd-40db-a366-2ca26948824e"
+Parent: "d9b14a45-6dc4-4cc9-ac8c-b7c64bff3ffb"
+Template: "66ca469c-15c7-490e-9ed2-9d7499c0584a"
+Path: /sitecore/content/Financial/BECU/Data/DisclosureItems/HELOC Example Payment
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "0b7c2b1b-995e-4727-b060-988c60fbae9a"
+      Hint: Text
+      Value: |
+        <div class="ck-content"><p><span style="color:#4d5f69;">Example payment for a $50,000 fixed rate advance loan for 15 years at 7.24% APR is $456.15 per month.</span></p></div>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260413T233915Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\michael.sherman@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\michael.sherman@sitecore.com
+    - ID: "853b4366-ac1f-412e-b367-6cba9dec820a"
+      Hint: Reference
+      Value: 4
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "65746fb4-9d72-45c6-9810-4a17245c73f5"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\allen.blanton@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260414T231143Z

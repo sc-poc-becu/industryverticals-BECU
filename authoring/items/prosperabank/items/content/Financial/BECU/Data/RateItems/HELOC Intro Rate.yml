@@ -1,0 +1,44 @@
+﻿---
+ID: "c59a9898-9ce5-4de0-83f5-06a7757fb2b3"
+Parent: "79acd01d-ec21-4586-9413-868970bfffad"
+Template: "be33779a-9969-4480-aa32-091f0fa1f754"
+Path: /sitecore/content/Financial/BECU/Data/RateItems/HELOC Intro Rate
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260414T032832Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\michael.sherman@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\michael.sherman@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4c7e046f-658f-4312-b916-64ca3989c1d6"
+    - ID: "ba53098a-ffa9-4350-9980-5eef7b713b74"
+      Hint: Rate
+      Value: 4.49
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\michael.sherman@sitecore.com
+    - ID: "c012ad86-d476-4f5d-a599-db47b6282f33"
+      Hint: Description
+      Value: |
+        <div class="ck-content"><p>Special introductory APR for six months.³ After, rates range from 6.99% - 9.84% variable APR.</p></div>
+    - ID: "c26c0d67-36ec-4026-8cd1-5b23133cfc0d"
+      Hint: Title
+      Value: "Home Equity Line of Credit: Introductory Rate"
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260414T033458Z

@@ -17,7 +17,14 @@ SharedFields:
     <image mediaid="{77B2E03A-B9CE-4C45-9BC1-1E226624837E}" alt="Stacks of coins" height="" width="" hspace="" vspace="" />
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
-  Value: 500
+  Value: 
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{611575EB-F57F-4599-A380-0AA798AB67C7}" />
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "cef4e427-ddaf-4973-88b6-e8b67c373b43"
 - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
   Hint: __Renderings
   Value: |
@@ -69,6 +76,9 @@ Languages:
         <p><strong>Towards a More Equitable Future</strong></p>
         <p>Closing the wealth gap is not only a moral imperative but also an economic necessity for building a more just and sustainable society. By addressing systemic inequalities, empowering individuals and communities, and promoting diversity and inclusion, we can work together to create a future where everyone has the opportunity to thrive and prosper, regardless of their background or circumstances.</p>
         <p><em>Join us in our commitment to closing the wealth gap and building a more equitable world for generations to come.</em></p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260414T162345Z
     - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
       Hint: __Workflow state
       Value: "{13D6CCE7-A6C3-4EE1-A1D9-8A8E34225ED7}"
@@ -78,9 +88,20 @@ Languages:
     - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
       Hint: NavigationTitle
       Value: Bridging the wealth divide
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\andrew.vieau@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "edcfdbce-bdeb-4ae6-8031-8d18c9b6cd43"
+      Value: "2ab65adf-e109-4e55-9698-310e80ddef85"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\andrew.vieau@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260414T162345Z
     - ID: "e81c4912-a4d2-4466-842c-02f0b2c9dc42"
       Hint: Title
       Value: Bridging the wealth divide

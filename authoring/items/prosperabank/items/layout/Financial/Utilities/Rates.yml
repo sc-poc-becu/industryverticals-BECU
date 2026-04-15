@@ -1,15 +1,15 @@
 ﻿---
-ID: "99e83985-054a-4094-aae1-d0edc38cbe50"
-Parent: "41452cad-79a8-4389-bd0f-52e1ebe7a8f9"
+ID: "5b7e51d2-589c-42b6-bf0f-e8ae05fe6b9d"
+Parent: "72301857-f98f-4c76-90ab-4e2b0dd19fb3"
 Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
-Path: /sitecore/layout/Renderings/Project/Financial/Page Content/Disclosures
+Path: /sitecore/layout/Renderings/Project/Financial/Utilities/Rates
 SharedFields:
 - ID: "037fe404-dd19-4bf7-8e30-4dadf68b27b0"
   Hint: componentName
-  Value: Disclosures
+  Value: Rates
 - ID: "1a7c85e5-dc0b-490d-9187-bb1dbcb4c72f"
   Hint: Datasource Template
-  Value: /sitecore/templates/Project/Financial/Components/Disclosures
+  Value: /sitecore/templates/Project/Financial/Components/Rates
 - ID: "7d8ae35f-9ed1-43b5-96a2-0a5f040d4e4e"
   Hint: Open Properties after Add
   Value: 0
@@ -18,37 +18,29 @@ SharedFields:
   Value: "{A65AEA73-8224-408B-913C-B1CEDAE0C443}"
 - ID: "b5b27af1-25ef-405c-87ce-369b3a004016"
   Hint: Datasource Location
-  Value: "query:$site/*[@@name='Data']/*[@@templatename='Disclosures']|query:$sharedSites/*[@@name='Data']/*[@@templatename='Disclosures']"
+  Value: ./Data
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "9cd6b327-1084-4cda-a9f0-a23f4ede8f70"
+  Value: "559041db-bb15-4b8f-8711-9b955f465d28"
 Languages:
 - Language: en
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
-    Value: "26f716ef-dfdc-4e6e-9f0c-ef3256cb5f0f"
+    Value: "22437a8c-8801-40ac-8a40-3324a14a9232"
   Versions:
   - Version: 1
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20260413T182357Z
-    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
-      Hint: __Owner
-      Value: |
-        sitecore\michael.sherman@sitecore.com
-    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
-      Hint: __Created by
-      Value: |
-        sitecore\michael.sherman@sitecore.com
+      Value: 20260414T032533Z
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "92055f1d-c37e-462f-89b3-6e56e9468284"
+      Value: "a3e9d796-c997-4bc9-9d54-a89f669cad55"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\michael.sherman@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260413T222554Z
+      Value: 20260414T233432Z
