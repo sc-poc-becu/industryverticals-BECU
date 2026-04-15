@@ -22,18 +22,6 @@
         "allowedPushOperations": "CreateUpdateAndDelete"
       },
       {
-        "name": "content",
-        "path": "/sitecore/content/financial",
-        "scope": "ItemAndDescendants",
-        "allowedPushOperations": "CreateUpdateAndDelete"
-      },
-      {
-        "name": "media",
-        "path": "/sitecore/media library/Project/financial",
-        "scope": "ItemAndDescendants", 
-        "allowedPushOperations": "CreateUpdateAndDelete"
-      },
-      {
         "name": "workflow",
         "path": "/sitescore/system/Workflows",
         "scope": "DescendantsOnly",

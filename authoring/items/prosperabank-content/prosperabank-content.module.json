@@ -1,0 +1,21 @@
+{
+  "$schema": "../../.sitecore/schemas/ModuleFile.schema.json",
+  "namespace": "prosperabank-content",
+  "references": ["prosperabank"],
+  "items": {
+    "includes": [
+      {
+        "name": "content",
+        "path": "/sitecore/content/Financial",
+        "scope": "ItemAndDescendants",
+        "allowedPushOperations": "CreateUpdateAndDelete"
+      },
+      {
+        "name": "media",
+        "path": "/sitecore/media library/Project/financial",
+        "scope": "ItemAndDescendants",
+        "allowedPushOperations": "CreateUpdateAndDelete"
+      }
+    ]
+  }
+}

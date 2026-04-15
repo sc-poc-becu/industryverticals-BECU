@@ -115,6 +115,7 @@
     "actions": {
       "scsModules": {
         "modules": [
+          "prosperabank-content"
         ]
       },
       "warmUpCm": {
