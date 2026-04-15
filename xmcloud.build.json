@@ -109,13 +109,12 @@
     }
   },
   "deployItems": {
-    "modules": ["common"]
+    "modules": ["common", "prosperabank"]
   },
   "postActions": {
     "actions": {
       "scsModules": {
         "modules": [
-          "prosperabank"
         ]
       },
       "warmUpCm": {
