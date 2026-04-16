@@ -44,6 +44,7 @@ import * as FiveColumnCta from 'src/components/PageContent/FiveColumnCta';
 import * as Features from 'src/components/PageContent/Features';
 import * as DocumentsList from 'src/components/PageContent/DocumentsList';
 import * as Disclosures from 'src/components/PageContent/Disclosures';
+import * as Rates from 'src/components/PageContent/Rates';
 import * as CtaBanner from 'src/components/PageContent/CtaBanner';
 import * as Comparison from 'src/components/PageContent/Comparison';
 import * as Carousel from 'src/components/PageContent/Carousel';
@@ -62,6 +63,7 @@ import * as Header from 'src/components/Navigation/Header';
 import * as Footer from 'src/components/Navigation/Footer';
 import * as Eyebrow from 'src/components/Navigation/Eyebrow';
 import * as Breadcrumb from 'src/components/Navigation/Breadcrumb';
+import * as PromoContainer from 'src/components/PromoContainer';
 
 export const componentMap = new Map<string, NextjsContentSdkComponent>([
   ['BYOCWrapper', BYOCWrapper],
@@ -107,6 +109,7 @@ export const componentMap = new Map<string, NextjsContentSdkComponent>([
   ['Features', { ...Features }],
   ['DocumentsList', { ...DocumentsList }],
   ['Disclosures', { ...Disclosures }],
+  ['Rates', { ...Rates }],
   ['CtaBanner', { ...CtaBanner }],
   ['Comparison', { ...Comparison }],
   ['Carousel', { ...Carousel }],
@@ -125,6 +128,7 @@ export const componentMap = new Map<string, NextjsContentSdkComponent>([
   ['Footer', { ...Footer }],
   ['Eyebrow', { ...Eyebrow }],
   ['Breadcrumb', { ...Breadcrumb }],
+  ['PromoContainer', { ...PromoContainer }],
 ]);
 
 export default componentMap;

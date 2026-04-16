@@ -1,0 +1,13 @@
+---
+ID: "7d0d7074-2ecb-4dcd-9226-4ca0dafdc249"
+Parent: "094dd382-f982-48df-9931-136f44ad07c3"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/Financial/Components/Rates/Data
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a0000002-0000-4000-8000-000000000002"
