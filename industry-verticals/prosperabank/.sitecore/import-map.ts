@@ -11,7 +11,8 @@ import Head from 'next/head';
 import client from 'lib/sitecore-client';
 import { useCallback, useRef, useState, useEffect, useMemo, Fragment } from 'react';
 import React from 'react';
-import { Placeholder, RichText, NextImage, Link, Text, useSitecore, withDatasourceCheck, CdpHelper, Image as Image_8a80e63291fea86e0744df19113dc44bec187216 } from '@sitecore-content-sdk/nextjs';
+import { Placeholder, RichText, LayoutServicePageState, NextImage, Link, Text, useSitecore, withDatasourceCheck, CdpHelper, Image as Image_8a80e63291fea86e0744df19113dc44bec187216 } from '@sitecore-content-sdk/nextjs';
+import { collectTokenKeysFromHtml, fetchTokenValueMap, replaceRichTextTokens } from 'lib/rich-text-tokens';
 import PreviewSearchWidget from 'src/components/Search/PreviewSearch/PreviewSearch';
 import { isSearchSDKEnabled } from 'src/services/SearchSDKService';
 import PreviewSearchIcon from 'src/components/Search/PreviewSearch/PreviewSearchIcon';
@@ -67,6 +68,7 @@ const importMap = [
     exports: [
       { name: 'Placeholder', value: Placeholder },
       { name: 'RichText', value: RichText },
+      { name: 'LayoutServicePageState', value: LayoutServicePageState },
       { name: 'NextImage', value: NextImage },
       { name: 'Link', value: Link },
       { name: 'Text', value: Text },
@@ -74,6 +76,14 @@ const importMap = [
       { name: 'withDatasourceCheck', value: withDatasourceCheck },
       { name: 'CdpHelper', value: CdpHelper },
       { name: 'Image', value: Image_8a80e63291fea86e0744df19113dc44bec187216 },
+    ]
+  },
+  {
+    module: 'lib/rich-text-tokens',
+    exports: [
+      { name: 'collectTokenKeysFromHtml', value: collectTokenKeysFromHtml },
+      { name: 'fetchTokenValueMap', value: fetchTokenValueMap },
+      { name: 'replaceRichTextTokens', value: replaceRichTextTokens },
     ]
   },
   {
