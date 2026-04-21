@@ -27,7 +27,7 @@ export const Default = (props: YouTubeVideoProps): JSX.Element => {
   return (
     <div className={`component youtube-video ${sxaStyles}`} id={id ? id : undefined}>
       <div className="container">
-        <h2 className="display-6 fw-bold mb-3">
+        <h2 className="h3 fw-bold mb-3">
           <Text field={props.fields?.Title} />
         </h2>
         {embedSrc ? (
