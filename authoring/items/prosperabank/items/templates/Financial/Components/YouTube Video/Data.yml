@@ -1,0 +1,13 @@
+---
+ID: "8e4d0b3c-5f92-4e0a-9d73-2b1c6e9f4a5b"
+Parent: "7f3c9a2b-4e81-4d9f-8c62-1a0b5d8e3f4a"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/Financial/Components/YouTube Video/Data
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e2f3a4b5-c6d7-4890-e123-456789abcdef"
