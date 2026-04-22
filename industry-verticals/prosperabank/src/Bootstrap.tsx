@@ -1,9 +1,21 @@
 import { useEffect, JSX } from 'react';
 import { CloudSDK } from '@sitecore-cloudsdk/core/browser';
+import { identity } from '@sitecore-cloudsdk/events/browser';
 import { SitecorePageProps } from '@sitecore-content-sdk/nextjs';
 import '@sitecore-cloudsdk/events/browser';
 import '@sitecore-cloudsdk/personalize/browser';
 import config from 'sitecore.config';
+
+/** Cookie set by upstream auth; value is the Member ID used for Sitecore AI identity resolution. */
+const BECU_MEMBER_ID_COOKIE = 'becu_memberid';
+/** sessionStorage key: send at most one IDENTITY event per browser session (tab). */
+const IDENTITY_EVENT_SESSION_KEY = 'sitecore_cloud_identity_sent';
+
+function readBrowserCookie(name: string): string | undefined {
+  const escaped = name.replace(/([.*+?^${}()|[\]\\])/g, '\\$1');
+  const match = typeof document !== 'undefined' && document.cookie.match(new RegExp(`(?:^|; )${escaped}=([^;]*)`));
+  return match ? decodeURIComponent(match[1]) : undefined;
+}
 
 /**
  * The Bootstrap component is the entry point for performing any initialization logic
@@ -76,6 +88,36 @@ const Bootstrap = (props: SitecorePageProps): JSX.Element | null => {
           enablePersonalizeCookie: true,
         })
         .initialize();
+
+      const sendMemberIdentityIfNeeded = async (): Promise<void> => {
+        if (process.env.NODE_ENV === 'development') {
+          return;
+        }
+        if (sessionStorage.getItem(IDENTITY_EVENT_SESSION_KEY) === '1') {
+          return;
+        }
+        const memberId = readBrowserCookie(BECU_MEMBER_ID_COOKIE)?.trim();
+        if (!memberId) {
+          return;
+        }
+        const language = page.locale || config.defaultLanguage || 'en';
+        try {
+          await identity({
+            channel: 'WEB',
+            currency: 'USD',
+            language,
+            page: window.location.pathname + window.location.search,
+            firstName: 'Member',
+            lastName: memberId,
+            identifiers: [{ id: memberId, provider: 'becu_memberid' }],
+          });
+          sessionStorage.setItem(IDENTITY_EVENT_SESSION_KEY, '1');
+        } catch (e) {
+          console.debug(e);
+        }
+      };
+
+      void sendMemberIdentityIfNeeded();
 
       const personalizeClientKey = process.env.NEXT_PUBLIC_SITECORE_PERSONALIZE_CLIENT_KEY;
       const edgeUrl = config.api.edge.edgeUrl;
