@@ -56,6 +56,7 @@ import * as ArticleList from 'src/components/PageContent/ArticleList';
 import * as ArticleDetails from 'src/components/PageContent/ArticleDetails';
 import * as AppPromo from 'src/components/PageContent/AppPromo';
 import * as Accordion from 'src/components/PageContent/Accordion';
+import * as YouTubeVideo from 'src/components/PageContent/YouTubeVideo';
 import * as ParallaxBackgroundImage from 'src/components/NonSitecore/ParallaxBackgroundImage';
 import * as IconAccent from 'src/components/NonSitecore/IconAccent';
 import * as DottedAccent from 'src/components/NonSitecore/DottedAccent';
@@ -122,6 +123,7 @@ export const componentMap = new Map<string, NextjsContentSdkComponent>([
   ['ArticleDetails', { ...ArticleDetails }],
   ['AppPromo', { ...AppPromo }],
   ['Accordion', { ...Accordion }],
+  ['YouTubeVideo', { ...YouTubeVideo }],
   ['ParallaxBackgroundImage', { ...ParallaxBackgroundImage }],
   ['IconAccent', { ...IconAccent }],
   ['DottedAccent', { ...DottedAccent }],

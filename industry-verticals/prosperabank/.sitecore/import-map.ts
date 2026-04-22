@@ -27,6 +27,7 @@ import { useI18n } from 'next-localization';
 import { WidgetDataType, usePreviewSearch, widget, PageController } from '@sitecore-search/react';
 import { ArticleCard, Presence, PreviewSearch } from '@sitecore-search/ui';
 import Spinner from 'src/components/Search/components/Spinner/Spinner';
+import { isValidYouTubeVideoId, youtubeIframeSrc } from 'lib/youtube-embed';
 import useVisibility from 'src/hooks/useVisibility';
 import { Swiper, SwiperSlide } from 'swiper/react';
 import { Autoplay, EffectCoverflow, Pagination, Navigation } from 'swiper/modules';
@@ -173,6 +174,13 @@ const importMap = [
     module: 'src/components/Search/components/Spinner/Spinner',
     exports: [
       { name: 'default', value: Spinner },
+    ]
+  },
+  {
+    module: 'lib/youtube-embed',
+    exports: [
+      { name: 'isValidYouTubeVideoId', value: isValidYouTubeVideoId },
+      { name: 'youtubeIframeSrc', value: youtubeIframeSrc },
     ]
   },
   {
