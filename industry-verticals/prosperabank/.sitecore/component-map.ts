@@ -7,6 +7,7 @@ import { Form } from '@sitecore-content-sdk/nextjs';
 import * as SitecoreStyles from 'src/components/SitecoreStyles';
 import * as RowSplitter from 'src/components/RowSplitter';
 import * as RichText from 'src/components/RichText';
+import * as RichTextWithTokens from 'src/components/RichTextWithTokens';
 import * as Promo from 'src/components/Promo';
 import * as PartialDesignDynamicPlaceholder from 'src/components/PartialDesignDynamicPlaceholder';
 import * as Navigation from 'src/components/Navigation';
@@ -55,6 +56,7 @@ import * as ArticleList from 'src/components/PageContent/ArticleList';
 import * as ArticleDetails from 'src/components/PageContent/ArticleDetails';
 import * as AppPromo from 'src/components/PageContent/AppPromo';
 import * as Accordion from 'src/components/PageContent/Accordion';
+import * as YouTubeVideo from 'src/components/PageContent/YouTubeVideo';
 import * as ParallaxBackgroundImage from 'src/components/NonSitecore/ParallaxBackgroundImage';
 import * as IconAccent from 'src/components/NonSitecore/IconAccent';
 import * as DottedAccent from 'src/components/NonSitecore/DottedAccent';
@@ -72,6 +74,7 @@ export const componentMap = new Map<string, NextjsContentSdkComponent>([
   ['SitecoreStyles', { ...SitecoreStyles }],
   ['RowSplitter', { ...RowSplitter }],
   ['RichText', { ...RichText }],
+  ['RichTextWithTokens', { ...RichTextWithTokens }],
   ['Promo', { ...Promo }],
   ['PartialDesignDynamicPlaceholder', { ...PartialDesignDynamicPlaceholder }],
   ['Navigation', { ...Navigation }],
@@ -120,6 +123,7 @@ export const componentMap = new Map<string, NextjsContentSdkComponent>([
   ['ArticleDetails', { ...ArticleDetails }],
   ['AppPromo', { ...AppPromo }],
   ['Accordion', { ...Accordion }],
+  ['YouTubeVideo', { ...YouTubeVideo }],
   ['ParallaxBackgroundImage', { ...ParallaxBackgroundImage }],
   ['IconAccent', { ...IconAccent }],
   ['DottedAccent', { ...DottedAccent }],

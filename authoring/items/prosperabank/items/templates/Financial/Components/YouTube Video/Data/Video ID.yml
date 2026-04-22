@@ -1,0 +1,20 @@
+---
+ID: "a06f2d5e-7b14-4a2c-1f95-4d3e8a1b6c7d"
+Parent: "8e4d0b3c-5f92-4e0a-9d73-2b1c6e9f4a5b"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/Financial/Components/YouTube Video/Data/Video ID
+SharedFields:
+- ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
+  Hint: Type
+  Value: "Single-Line Text"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a4b5c6d7-e8f9-4012-a345-6789abcdef01"
